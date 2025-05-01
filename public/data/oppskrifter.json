@@ -1,0 +1,1879 @@
+[
+  {
+    "id": "gourmet-white-pizza",
+
+    "title": "Gourmet White Pizza with Garlic Parmesan Sauce, Mushrooms, and Spinach",
+    "description": null,
+    "yield": "Makes 2 large or 3-4 medium pizzas",
+    "ingredients": [
+      {
+        "componentName": "Garlic Parmesan White Sauce",
+        "yield": "enough for 2 large or 3-4 medium pizzas",
+        "items": [
+          { "name": "Butter", "quantity": "60 g", "notes": null },
+          { "name": "Garlic", "quantity": "4 large cloves", "notes": "finely minced" },
+          { "name": "Flour", "quantity": "30 g", "notes": "about 2 tablespoons" },
+          { "name": "Whole milk", "quantity": "500 ml", "notes": "or half milk / half cream for extra creaminess" },
+          { "name": "Parmesan cheese", "quantity": "80 g", "notes": "finely grated" },
+          { "name": "Salt", "quantity": "1 teaspoon", "notes": "adjust to taste" },
+          { "name": "Black pepper", "quantity": "1 teaspoon", "notes": "freshly ground" },
+          { "name": "Nutmeg", "quantity": "A pinch", "notes": "optional" },
+          { "name": "Thyme", "quantity": "1 teaspoon fresh or a pinch dried", "notes": null },
+          { "name": "Extra virgin olive oil", "quantity": "2 teaspoons", "notes": null }
+        ]
+      },
+      {
+        "componentName": "White Pizza Toppings",
+        "yield": "For 2 large or 3-4 medium pizzas",
+        "items": [
+          { "name": "Pizza dough", "quantity": "1 kg", "notes": "divided according to size" },
+          { "name": "Olive oil", "quantity": "2 tablespoons", "notes": "for the crust edges" },
+          { "name": "White sauce", "quantity": "the previous recipe (~500 ml)", "notes": null },
+          { "name": "Cremini mushrooms", "quantity": "200 g", "notes": "thinly sliced" },
+          { "name": "Fresh baby spinach", "quantity": "100 g", "notes": null },
+          { "name": "Mozzarella", "quantity": "200 g", "notes": "torn or grated" },
+          { "name": "Parmesan", "quantity": "60 g", "notes": "grated" },
+          { "name": "Shallots", "quantity": "2 small", "notes": "thinly sliced" },
+          { "name": "Cured ham (e.g., Prosciutto)", "quantity": "6-8 slices", "notes": "optional" },
+          { "name": "Black pepper", "quantity": "to taste", "notes": null },
+          { "name": "Chilli flakes (Red pepper flakes)", "quantity": "a pinch", "notes": "optional" },
+          { "name": "Truffle oil", "quantity": "a drizzle at the end", "notes": "optional" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": "Garlic Parmesan White Sauce",
+        "steps": [
+          "Melt the butter in a saucepan over medium-low heat.",
+          "Add the garlic and sauté for 30 seconds without letting it brown.",
+          "Stir in the flour and cook for 1 minute, stirring constantly.",
+          "Gradually whisk in the milk, ensuring no lumps form.",
+          "Add the thyme at this step.",
+          "Cook over low heat for 3-5 minutes, whisking occasionally, until slightly thickened.",
+          "Stir in the Parmesan, salt, pepper, and nutmeg.",
+          "Remove from heat and stir in the olive oil at the end for a silkier texture."
+        ]
+      },
+      {
+        "componentName": "Assembly and Baking",
+        "steps": [
+          "Preheat the oven to 250°C (480°F). If using a pizza stone, preheat it for at least 30 minutes.",
+          "In a pan, sauté the shallots, then add the mushrooms and cook until golden brown (5-6 min). Add the spinach at the end and cook just until wilted.",
+          "Stretch out the pizza dough and place it on a baking sheet or the preheated pizza stone.",
+          "Assemble the pizza:",
+          "  - Spread the white sauce (~125-150 ml per pizza)",
+          "  - Add the mozzarella, then the mushroom and spinach mixture",
+          "  - Arrange the cured ham (if using)",
+          "  - Sprinkle with Parmesan, black pepper, and chilli flakes",
+          "Bake for 7-10 minutes until the crust is golden brown and crispy.",
+          "When removing from the oven, drizzle with truffle oil (optional) and serve immediately."
+        ]
+      }
+    ],
+    "servingSuggestions": [
+      "White wine: Sauvignon Blanc or Pinot Grigio",
+      "Red wine: Young Pinot Noir or Chianti",
+      "Salad: Arugula (Rocket) with lemon and Parmesan shavings"
+    ],
+    "tips": null
+  },
+  {
+    "id": "rustic-sausage-gratin",
+
+    "title": "Rustic Sausage Gratin with Potatoes & Gruyère",
+    "description": "Here's a Rustic Sausage Gratin recipe, inspired by French and Alpine cuisine. It features layers of flavorful sausage, creamy potatoes, and a cheesy, garlicky béchamel sauce, baked until golden and bubbling.\n_A comforting, cheesy, and hearty dish perfect for colder days_",
+    "yield": "Serves 4-6",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Sausage", "quantity": "500 g", "notes": "Toulouse, Saucisse de Montbéliard, or a high-quality coarse sausage" },
+          { "name": "Potatoes", "quantity": "800 g", "notes": "waxy variety like Charlotte or firm all-purpose potatoes" },
+          { "name": "Onion", "quantity": "1", "notes": "thinly sliced" },
+          { "name": "Garlic", "quantity": "2 cloves", "notes": "minced" },
+          { "name": "Butter", "quantity": "30 g", "notes": null },
+          { "name": "Flour", "quantity": "30 g", "notes": null },
+          { "name": "Whole milk", "quantity": "400 ml", "notes": null },
+          { "name": "Heavy cream", "quantity": "100 ml", "notes": null },
+          { "name": "Dijon mustard", "quantity": "1 tsp", "notes": null },
+          { "name": "Nutmeg", "quantity": "1/4 tsp", "notes": null },
+          { "name": "Gruyère cheese", "quantity": "100 g", "notes": "grated (or Comté/Emmental)" },
+          { "name": "Salt & black pepper", "quantity": "to taste", "notes": null },
+          { "name": "Fresh thyme", "quantity": null, "notes": "optional, for garnish" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Preheat oven to 200°C (fan 180°C / 400°F / 350°F fan). Butter a gratin dish.",
+          "Prepare the sausages: If using raw sausages, brown them in a pan over medium heat until cooked through. If using smoked sausages, slice them into rounds.",
+          "Slice the potatoes: Peel (if desired) and thinly slice potatoes (about 3 mm thick). A mandoline makes this easier.",
+          "Sauté onions & garlic: In a pan, heat a little butter and sauté onions until soft and golden. Add garlic and cook for 1 more minute.",
+          "Make the béchamel:",
+          "   - In a saucepan, melt butter, stir in flour, and cook for 1-2 minutes (do not brown).",
+          "   - Gradually whisk in milk and cream, stirring continuously until thickened.",
+          "   - Add Dijon mustard, nutmeg, salt, and pepper.",
+          "   - Stir in half of the Gruyère cheese.",
+          "Assemble the gratin:",
+          "   - Layer half the potatoes in the gratin dish.",
+          "   - Scatter the onions and sausage slices over the potatoes.",
+          "   - Pour half the béchamel over the layer.",
+          "   - Repeat with remaining potatoes and pour over the rest of the sauce.",
+          "   - Sprinkle the top with the remaining Gruyère.",
+          "Bake for 35-40 minutes until golden and bubbling.",
+          "Rest for 5 minutes before serving. Garnish with fresh thyme."
+        ]
+      }
+    ],
+    "servingSuggestions": [
+      "Serve with a fresh green salad (vinaigrette-based).",
+      "A glass of dry white wine (like a Savoie or Chardonnay) pairs beautifully."
+    ],
+    "tips": null
+  },
+  {
+    "id": "french-onion-soup",
+
+    "title": "French Onion Soup (Soupe à l'Oignon Gratinée)",
+    "description": "French Onion Soup is a timeless classic, known for its rich, caramelized onion base, a deeply flavorful broth, and a crusty bread topping blanketed with melted Gruyère cheese. This dish has its roots in the Les Halles market of Paris, where it was traditionally served as a restorative meal for weary workers.",
+    "yield": "Serves 4-6",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Yellow onions", "quantity": "1 kg", "notes": "about 6 large onions, thinly sliced" },
+          { "name": "Unsalted butter", "quantity": "2 tbsp", "notes": null },
+          { "name": "Olive oil", "quantity": "1 tbsp", "notes": "prevents butter from burning" },
+          { "name": "Salt", "quantity": "1 tsp", "notes": "to draw out moisture from onions" },
+          { "name": "Sugar", "quantity": "1 tsp", "notes": "optional, to aid caramelization" },
+          { "name": "Garlic", "quantity": "2 cloves", "notes": "minced" },
+          { "name": "Dry white wine", "quantity": "250 ml", "notes": "like Sauvignon Blanc or Pinot Grigio" },
+          { "name": "Beef broth", "quantity": "1.5 L", "notes": "or a mix of beef and vegetable broth for depth" },
+          { "name": "Fresh thyme", "quantity": "2 sprigs", "notes": "or 1 tsp dried thyme" },
+          { "name": "Bay leaf", "quantity": "1", "notes": null },
+          { "name": "Salt and pepper", "quantity": "to taste", "notes": null },
+          { "name": "Baguette", "quantity": "1", "notes": "sliced into 1.5 cm thick rounds" },
+          { "name": "Gruyère cheese", "quantity": "200 g", "notes": "grated (or a mix of Gruyère and Emmental for extra melt)" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": "1. Caramelize the Onions",
+        "steps": [
+          "Heat butter and olive oil in a large, heavy-bottomed pot over medium heat.",
+          "Add the sliced onions and sprinkle with salt. Stir to coat the onions in the fat.",
+          "Cook slowly, stirring occasionally, until the onions are soft and golden (about 20 minutes).",
+          "Increase the heat slightly and add the sugar (optional) to enhance caramelization.",
+          "Continue cooking, stirring frequently, until onions are deeply caramelized (dark golden-brown), about 40 minutes in total. Don’t rush this step!"
+        ]
+      },
+      {
+        "componentName": "2. Deglaze the Pan",
+        "steps": [
+          "Add minced garlic and sauté for about 1 minute.",
+          "Pour in the white wine to deglaze, scraping up any browned bits from the bottom of the pot. Let it simmer until the wine is mostly evaporated."
+        ]
+      },
+      {
+        "componentName": "3. Build the Soup Base",
+        "steps": [
+          "Add the beef broth, thyme, and bay leaf.",
+          "Bring to a simmer, then reduce the heat and let it gently cook for at least 30 minutes. This allows the flavors to meld.",
+          "Season with salt and pepper to taste.",
+          "Remove the thyme sprigs and bay leaf before serving."
+        ]
+      },
+      {
+        "componentName": "4. Prepare the Bread and Cheese Topping",
+        "steps": [
+          "Preheat the oven to 180°C (350°F).",
+          "Toast the baguette slices on a baking sheet until golden, flipping once.",
+          "Rub each slice with a cut garlic clove for extra flavor (optional)."
+        ]
+      },
+      {
+        "componentName": "5. Assemble and Gratinate",
+        "steps": [
+          "Ladle the hot soup into oven-safe bowls.",
+          "Float 1-2 baguette slices on top of each bowl.",
+          "Generously sprinkle with Gruyère cheese.",
+          "Place the bowls on a baking sheet and transfer to the oven.",
+          "Bake for 10 minutes, then turn on the broiler for 2-3 minutes to melt and brown the cheese.",
+          "Remove carefully (the bowls will be hot!) and let them cool slightly before serving."
+        ]
+      }
+    ],
+    "servingSuggestions": [
+      "Serve immediately while the cheese is gooey and the bread is crispy.",
+      "Pair with a dry white wine like Sauvignon Blanc or a light red Burgundy."
+    ],
+    "tips": [
+      "Patience is key for caramelizing the onions. This is where the deep, sweet flavor comes from.",
+      "Use a mix of butter and oil to prevent the butter from burning while giving richness to the soup.",
+      "For a richer flavor, use homemade beef broth or add a splash of sherry or cognac before deglazing.",
+      "For a vegetarian version, use high-quality vegetable broth but be sure to deepen the flavor with extra caramelization of the onions.",
+      "Choose the right cheese - Gruyère is traditional for its nutty flavor and excellent melting quality.",
+      "Make-Ahead and Storage Tips:",
+      "  - The soup base can be made a day in advance and refrigerated. It actually tastes better the next day as the flavors meld.",
+      "  - Reheat gently on the stove before assembling with bread and cheese.",
+      "  - Freeze the soup base (without the bread and cheese) for up to 3 months."
+    ]
+  },
+  {
+    "id": "blueberry-crumble",
+
+    "title": "Blueberry Crumble",
+    "description": "Blueberry crumble is a classic dessert that combines sweet, juicy blueberries with a buttery, crumbly topping. It's simple to make and perfect for any occasion.",
+    "yield": "Serves 4-6",
+    "ingredients": [
+      {
+        "componentName": "For the Blueberry Filling",
+        "items": [
+          { "name": "Blueberries", "quantity": "500 g", "notes": null },
+          { "name": "Sugar", "quantity": "50 g", "notes": null },
+          { "name": "Lemon juice", "quantity": "1 tbsp", "notes": "~15 g" },
+          { "name": "Cornstarch", "quantity": "2 tsp", "notes": "~5 g" },
+          { "name": "Vanilla extract", "quantity": "1 tsp", "notes": "~5 g, optional" }
+        ]
+      },
+      {
+        "componentName": "For the Crumble Topping",
+        "items": [
+          { "name": "Flour", "quantity": "100 g", "notes": null },
+          { "name": "Rolled oats", "quantity": "80 g", "notes": null },
+          { "name": "Brown sugar", "quantity": "80 g", "notes": null },
+          { "name": "Cinnamon", "quantity": "1/2 tsp", "notes": null },
+          { "name": "Butter", "quantity": "100 g", "notes": "cold and cubed" },
+          { "name": "Salt", "quantity": "Pinch", "notes": null }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": "Filling",
+        "steps": [
+          "Preheat oven to 190°C (375°F).",
+          "In a bowl, gently toss the blueberries, sugar, lemon juice, cornstarch, and vanilla extract (if using) until combined.",
+          "Pour the blueberry mixture into a baking dish (approx. 20x20 cm or similar)."
+        ]
+      },
+      {
+        "componentName": "Topping",
+        "steps": [
+          "In a separate bowl, combine flour, oats, brown sugar, cinnamon, and salt.",
+          "Cut in the cold butter using a pastry blender, your fingertips, or a food processor until the mixture resembles coarse crumbs.",
+          "Sprinkle the crumble topping evenly over the blueberry filling."
+        ]
+      },
+      {
+        "componentName": "Baking",
+        "steps": ["Bake for 30-40 minutes, or until the topping is golden brown and the filling is bubbling.", "Let cool slightly before serving."]
+      }
+    ],
+    "servingSuggestions": ["Serve warm, optionally with vanilla ice cream or cream."],
+    "tips": null
+  },
+  {
+    "id": "minestra-maritata",
+
+    "title": "Minestra Maritata (Italian Wedding Soup)",
+    "description": "Minestra Maritata, or Italian Wedding Soup, is a comforting dish combining meatballs, greens, and pasta in a flavorful broth. It's a perfect blend of flavors and textures, a beloved classic in Italian-American cuisine.",
+    "yield": "Serves 6-8",
+    "ingredients": [
+      {
+        "componentName": "Soffritto",
+        "items": [
+          { "name": "Onion", "quantity": "120g (1 large)", "notes": "evenly diced" },
+          { "name": "Celery", "quantity": "120g", "notes": "evenly diced" },
+          { "name": "Carrot", "quantity": "120g", "notes": "evenly diced" },
+          { "name": "Red wine", "quantity": null, "notes": "for deglazing" }
+        ]
+      },
+      {
+        "componentName": "Meatballs",
+        "items": [
+          { "name": "Ground meat", "quantity": "500g", "notes": "beef, pork, or mix" },
+          { "name": "Parmesan", "quantity": "50g", "notes": "grated" },
+          { "name": "Breadcrumbs", "quantity": "50g", "notes": null },
+          { "name": "Egg", "quantity": "1", "notes": null },
+          { "name": "Garlic", "quantity": "2-3 cloves", "notes": "minced" },
+          { "name": "Chopped parsley", "quantity": "10g", "notes": null },
+          { "name": "Salt", "quantity": "5g", "notes": null },
+          { "name": "Pepper", "quantity": "to taste", "notes": null }
+        ]
+      },
+      {
+        "componentName": "Soup",
+        "items": [
+          { "name": "Chicken broth", "quantity": "2L", "notes": null },
+          { "name": "Small pasta (like Acini di Pepe or Estrellitas)", "quantity": "150g", "notes": null },
+          { "name": "Spinach", "quantity": "150g", "notes": "fresh" },
+          { "name": "Salt and pepper", "quantity": "to taste", "notes": null }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": "Soffritto",
+        "steps": ["Sauté onion, celery, and carrot in olive oil with salt until soft.", "Deglaze the pan with red wine."]
+      },
+      {
+        "componentName": "Meatballs",
+        "steps": ["Gently mix all meatball ingredients until just combined.", "Roll into small meatballs (approx. 2.5cm diameter)."]
+      },
+      {
+        "componentName": "Soup",
+        "steps": [
+          "Bring chicken broth to a boil and add the soffritto.",
+          "Add the meatballs and simmer until cooked through (5-10 min).",
+          "Add the pasta and cook according to package directions, until al dente.",
+          "Stir in the spinach during the last couple of minutes of cooking, until wilted.",
+          "Season the soup with salt and pepper to taste."
+        ]
+      }
+    ],
+    "servingSuggestions": [
+      "Ladle into bowls",
+      "Top with extra grated Parmigiano-Reggiano (about 15g per bowl)",
+      "A drizzle of olive oil (about 5g per bowl)",
+      "Optional: fresh basil or parsley"
+    ],
+    "tips": null
+  },
+  {
+    "id": "shepherds-pie",
+
+    "title": "Shepherd's Pie",
+    "description": "Shepherd's Pie is a comforting dish made with a savory meat filling (traditionally lamb, often beef in 'Cottage Pie') topped with creamy mashed potatoes. A classic hearty and satisfying meal.",
+    "yield": "Serves 4-6",
+    "ingredients": [
+      {
+        "componentName": "For the Soffritto",
+        "items": [
+          { "name": "Medium onion", "quantity": "1", "notes": "diced" },
+          { "name": "Carrot", "quantity": "120 g", "notes": "diced" },
+          { "name": "Celery stalk", "quantity": "120 g", "notes": "diced" },
+          { "name": "Olive oil", "quantity": "1-2 tbsp", "notes": null }
+        ]
+      },
+      {
+        "componentName": "For the Filling",
+        "items": [
+          { "name": "Ground meat", "quantity": "500 g", "notes": "lamb or beef" },
+          { "name": "Garlic cloves", "quantity": "2", "notes": "finely chopped" },
+          { "name": "Tomato paste", "quantity": "2 tbsp", "notes": null },
+          { "name": "Red wine", "quantity": "100 ml", "notes": null },
+          { "name": "Beef or chicken broth", "quantity": "300 ml", "notes": null },
+          { "name": "Worcestershire sauce", "quantity": "1 tsp", "notes": null },
+          { "name": "Dried thyme", "quantity": "1 tsp", "notes": null },
+          { "name": "Bay leaf", "quantity": "1", "notes": null },
+          { "name": "Frozen peas", "quantity": "100 g", "notes": null },
+          { "name": "Salt and pepper", "quantity": "to taste", "notes": null }
+        ]
+      },
+      {
+        "componentName": "For the Mashed Potatoes",
+        "items": [
+          { "name": "Potatoes", "quantity": "1 kg", "notes": "peeled and cubed (e.g., Russet or Yukon Gold)" },
+          { "name": "Butter", "quantity": "50 g", "notes": null },
+          { "name": "Cream (or milk)", "quantity": "100 ml", "notes": "warmed" },
+          { "name": "Grated Parmesan", "quantity": "50 g", "notes": "optional but recommended" },
+          { "name": "Salt and pepper", "quantity": "to taste", "notes": null }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Soffritto: In a large pot or Dutch oven, sauté onion, carrot, and celery in olive oil over medium heat until softened (about 8-10 minutes).",
+          "Brown Meat: Add ground meat to the pot, breaking it up with a spoon. Cook until browned. Drain off excess fat if necessary.",
+          "Combine: Stir in garlic and tomato paste, cooking for another 1-2 minutes until fragrant.",
+          "Deglaze: Pour in the red wine and scrape up any browned bits from the bottom of the pot. Let it simmer for a minute or two until slightly reduced.",
+          "Simmer: Add broth, Worcestershire sauce, thyme, bay leaf, salt, and pepper. Bring to a simmer, then reduce heat, cover partially, and cook for at least 20-30 minutes, or until the sauce has thickened. Stir in the frozen peas during the last 5 minutes. Remove the bay leaf.",
+          "Mashed Potatoes: While the filling simmers, boil the potatoes until tender. Drain well. Mash the potatoes with butter, warmed cream/milk, and Parmesan (if using). Season with salt and pepper to taste.",
+          "Assemble: Preheat oven to 200°C (400°F). Spread the meat filling evenly in a baking dish (e.g., 9x13 inch). Top with the mashed potatoes, spreading evenly. You can create texture on top with a fork.",
+          "Bake: Bake for 20-25 minutes, or until the topping is golden brown and the filling is bubbling. If the top isn't browning, you can place it under the broiler for a few minutes (watch carefully). Let rest for 5-10 minutes before serving."
+        ]
+      }
+    ],
+    "servingSuggestions": null,
+    "tips": null
+  },
+  {
+    "id": "lasagne-with-ricotta",
+
+    "title": "Lasagne with Ricotta",
+    "description": "A classic Italian-American style lasagne featuring layers of pasta, rich ragu, creamy ricotta filling, and melted mozzarella.",
+    "yield": "Serves 4-6",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Ragu Bolognese", "quantity": "500–700 g", "notes": null },
+          { "name": "Lasagne sheets", "quantity": "250 g", "notes": "fresh or dried" },
+          { "name": "Ricotta cheese", "quantity": "400 g", "notes": null },
+          { "name": "Egg", "quantity": "1", "notes": "lightly beaten" },
+          { "name": "Grated Parmesan", "quantity": "50 g", "notes": "plus extra for topping" },
+          { "name": "Fresh mozzarella", "quantity": "250 g", "notes": "sliced or cubed" },
+          { "name": "Salt and pepper", "quantity": "to taste", "notes": null },
+          { "name": "Fresh basil or parsley", "quantity": "Optional", "notes": "for topping" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Prepare ricotta mixture: In a bowl, combine ricotta, beaten egg, grated Parmesan, salt, and pepper. Mix until smooth.",
+          "Assemble the lasagne:",
+          "  1. Preheat oven to 175°C (350°F) fan/convection or 190°C (375°F) conventional.",
+          "  2. Spread a thin layer of ragu bolognese in the bottom of a baking dish (approx. 33 x 23 cm / 9x13 inch or similar).",
+          "  3. Place a layer of lasagne sheets over the ragu.",
+          "  4. Spread a layer of the ricotta mixture over the sheets, followed by a layer of ragu. Sprinkle with some mozzarella.",
+          "  5. Repeat the layers (sheets, ricotta, ragu, mozzarella) until ingredients are used up. Finish with a layer of ragu and a generous amount of mozzarella on top.",
+          "  6. Sprinkle with extra Parmesan if desired.",
+          "Bake the lasagne:",
+          "  1. Cover the dish loosely with foil and bake for 15–20 minutes.",
+          "  2. Remove the foil and bake for another 10–15 minutes, or until the top is golden brown and bubbling.",
+          "  3. Let the lasagne rest for 10 minutes before serving."
+        ]
+      }
+    ],
+    "servingSuggestions": null,
+    "tips": [
+      "If using dried lasagne sheets, ensure the sauce is slightly more liquid to help them cook properly. Some brands may require pre-boiling.",
+      "Want extra flavor? Sprinkle some dried oregano or thyme between the layers."
+    ]
+  },
+  {
+    "id": "tikka-masala",
+
+    "title": "Tikka Masala",
+    "description": "Chicken Tikka Masala features marinated and grilled (or pan-fried) chicken pieces in a creamy, spiced tomato-based sauce. A popular dish worldwide.",
+    "yield": "Serves 3-4",
+    "ingredients": [
+      {
+        "componentName": "For the Chicken Marinade",
+        "items": [
+          { "name": "Chicken breast fillet", "quantity": "500 g", "notes": "cut into bite-sized pieces" },
+          { "name": "Yogurt", "quantity": "150 g", "notes": "plain, full-fat recommended" },
+          { "name": "Lemon juice", "quantity": "2 tbsp", "notes": null },
+          { "name": "Garlic", "quantity": "3 cloves", "notes": "minced or grated" },
+          { "name": "Grated ginger", "quantity": "1 tbsp", "notes": null },
+          { "name": "Ground cumin", "quantity": "1 tsp", "notes": null },
+          { "name": "Ground coriander", "quantity": "1 ts", "notes": null },
+          { "name": "Turmeric", "quantity": "1 ts", "notes": null },
+          { "name": "Garam masala", "quantity": "1 ts", "notes": null },
+          { "name": "Chilli powder", "quantity": "1/2 ts", "notes": "adjust to heat preference" },
+          { "name": "Salt", "quantity": "1/2 ts", "notes": null }
+        ]
+      },
+      {
+        "componentName": "For the Sauce",
+        "items": [
+          { "name": "Oil", "quantity": "2 tbsp", "notes": "vegetable or canola" },
+          { "name": "Large onion", "quantity": "1", "notes": "finely chopped" },
+          { "name": "Garlic", "quantity": "3 cloves", "notes": "finely chopped" },
+          { "name": "Grated ginger", "quantity": "1 tbsp", "notes": null },
+          { "name": "Chopped tomatoes", "quantity": "2-3 fresh or 400g can", "notes": null },
+          { "name": "Tomato paste", "quantity": "1 tbsp", "notes": null },
+          { "name": "Ground cumin", "quantity": "1 ts", "notes": null },
+          { "name": "Ground coriander", "quantity": "1 ts", "notes": null },
+          { "name": "Paprika", "quantity": "1 ts", "notes": "sweet or smoked" },
+          { "name": "Garam masala", "quantity": "1 ts", "notes": null },
+          { "name": "Chilli powder", "quantity": "1/2 tsp", "notes": "adjust to heat preference" },
+          { "name": "Coconut cream or heavy cream", "quantity": "200 ml", "notes": null },
+          { "name": "Chicken broth", "quantity": "150 ml", "notes": null },
+          { "name": "Salt", "quantity": "to taste", "notes": null },
+          { "name": "Fresh cilantro leaves", "quantity": null, "notes": "for garnish" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": "Marinate Chicken",
+        "steps": [
+          "In a bowl, combine all marinade ingredients. Add the chicken pieces and mix well to coat.",
+          "Cover and refrigerate for at least 30 minutes, or preferably 2-4 hours (or overnight)."
+        ]
+      },
+      {
+        "componentName": "Cook Chicken",
+        "steps": [
+          "Heat 1 tbsp oil in a large skillet or pan over medium-high heat.",
+          "Cook the chicken in batches (don't overcrowd the pan) until golden brown and cooked through. Remove chicken and set aside."
+        ]
+      },
+      {
+        "componentName": "Make Sauce",
+        "steps": [
+          "In the same pan, add the remaining 1 tbsp oil. Add the chopped onion and cook until softened and lightly golden (about 5-7 minutes).",
+          "Add the chopped garlic and grated ginger, cook for another minute until fragrant.",
+          "Stir in the tomato paste, ground cumin, ground coriander, paprika, garam masala, and chilli powder. Cook for 1 minute, stirring constantly.",
+          "Add the chopped tomatoes and chicken broth. Bring to a simmer and cook for 5-10 minutes, stirring occasionally, until the sauce starts to thicken.",
+          "Reduce heat to low. Stir in the coconut cream or heavy cream. Do not boil after adding cream.",
+          "Return the cooked chicken to the sauce. Simmer gently for 5 minutes to allow flavors to meld.",
+          "Season with salt to taste."
+        ]
+      },
+      {
+        "componentName": "Serve",
+        "steps": ["Garnish with fresh cilantro leaves.", "Serve hot with rice or naan bread."]
+      }
+    ],
+    "servingSuggestions": ["Serve with basmati rice, naan bread, and perhaps some raita."],
+    "tips": null
+  },
+  {
+    "id": "naan-bread",
+
+    "title": "Naan Bread",
+    "description": "Soft and chewy Indian flatbread, often cooked in a tandoor oven but easily adaptable for home kitchens.",
+    "yield": "Makes 4-6 naan",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "All-purpose flour", "quantity": "250 g", "notes": null },
+          { "name": "Sugar", "quantity": "1 tsp", "notes": null },
+          { "name": "Salt", "quantity": "1/2 tsp", "notes": null },
+          { "name": "Baking powder", "quantity": "1/2 tsp", "notes": null },
+          { "name": "Yogurt", "quantity": "2 tbsp", "notes": "plain" },
+          { "name": "Oil", "quantity": "2 tbsp", "notes": "vegetable or canola" },
+          { "name": "Warm milk", "quantity": "120 ml", "notes": "approx. 40-45°C" },
+          { "name": "Melted butter, minced garlic, fresh cilantro", "quantity": "Optional", "notes": "for brushing" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": "Make Dough",
+        "steps": [
+          "In a large bowl, whisk together flour, sugar, salt, and baking powder.",
+          "In a separate small bowl, whisk together yogurt, oil, and warm milk.",
+          "Pour the wet ingredients into the dry ingredients and mix until a shaggy dough forms.",
+          "Turn the dough out onto a lightly floured surface and knead for 5-8 minutes, until smooth and elastic. Add a little more flour if too sticky, or a drop more milk if too dry.",
+          "Place the dough in a lightly oiled bowl, turn to coat, cover with a damp cloth, and let it rest in a warm place for 1-2 hours, or until nearly doubled in size."
+        ]
+      },
+      {
+        "componentName": "Shape and Cook",
+        "steps": [
+          "Divide the dough into 4-6 equal portions and shape each into a ball.",
+          "On a lightly floured surface, roll or stretch each ball into a teardrop or oval shape, about 0.5 cm thick.",
+          "Heat a heavy-bottomed skillet (cast iron preferred) or a griddle over medium-high heat. You can lightly oil it or cook dry.",
+          "Carefully place one naan onto the hot skillet. Cook for 1-2 minutes, until bubbles start to form on the surface.",
+          "Flip the naan and cook for another 1-2 minutes, until golden brown spots appear and it's cooked through.",
+          "Repeat with the remaining dough portions."
+        ]
+      },
+      {
+        "componentName": "Finish",
+        "steps": ["If desired, brush the hot naan with melted butter and sprinkle with minced garlic and/or fresh cilantro.", "Serve warm."]
+      }
+    ],
+    "servingSuggestions": ["Serve warm with curries, dals, or as an appetizer with dips."],
+    "tips": null
+  },
+  {
+    "id": "burrata-salad",
+
+    "title": "Burrata Salad",
+    "description": "A simple yet elegant salad featuring creamy burrata cheese, fresh arugula, cherry tomatoes, pesto, and a balsamic glaze.",
+    "yield": "Serves 1-2",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Burrata cheese", "quantity": "1 ball (approx. 125g)", "notes": null },
+          { "name": "Arugula (Rocket)", "quantity": "100 g", "notes": "washed" },
+          { "name": "Cherry tomatoes", "quantity": "100 g", "notes": "halved" },
+          { "name": "Olive oil", "quantity": "2 tbsp", "notes": "extra virgin recommended" },
+          { "name": "Balsamic glaze", "quantity": "1 tbsp", "notes": null },
+          { "name": "Pesto", "quantity": "2 tsp", "notes": null },
+          { "name": "Fresh ricotta or crumbled Parmesan", "quantity": "2 tbsp", "notes": null },
+          { "name": "Salt and pepper", "quantity": "to taste", "notes": null }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Arrange the arugula on a serving plate.",
+          "Place the burrata ball in the center of the arugula. Let it rest for about 10 minutes at room temperature to enhance creaminess.",
+          "Scatter the halved cherry tomatoes around the burrata.",
+          "Drizzle olive oil and balsamic glaze over the arugula and burrata.",
+          "Add dollops of pesto around the plate.",
+          "Sprinkle with crumbled Parmesan or dollops of fresh ricotta.",
+          "Season with salt and generous amounts of freshly ground black pepper."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Serve immediately as an appetizer or light lunch."],
+    "tips": ["Use high-quality, fresh ingredients for the best flavor."]
+  },
+  {
+    "id": "balsamic-glaze",
+
+    "title": "Balsamic Glaze",
+    "description": "A simple reduction of balsamic vinegar, creating a thick, syrupy glaze perfect for drizzling.",
+    "yield": "Yields approx. 50-60 ml",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Balsamic vinegar", "quantity": "100 ml", "notes": null },
+          { "name": "Sugar", "quantity": "1 tbsp", "notes": "optional, for added sweetness" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Combine balsamic vinegar and sugar (if using) in a small saucepan.",
+          "Bring to a boil over medium heat, then reduce heat to low and simmer gently.",
+          "Simmer for 10-15 minutes, or until the vinegar has reduced by about half and coats the back of a spoon. Be careful not to over-reduce.",
+          "Remember it will thicken further as it cools."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Drizzle over salads, grilled vegetables, meats, or cheese."],
+    "tips": ["Use a good quality balsamic vinegar for better flavor."]
+  },
+  {
+    "id": "melanzane-alla-parmigiana",
+
+    "title": "Melanzane alla Parmigiana (Eggplant Parmesan)",
+    "description": "A classic Italian dish with layers of fried or baked eggplant, rich tomato sauce, mozzarella, and Parmesan cheese, baked until bubbly and golden.",
+    "yield": "Serves 4-6",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Large eggplants", "quantity": "2 (approx. 600-700 g)", "notes": null },
+          { "name": "Canned tomatoes", "quantity": "1 can (400g)", "notes": "crushed or whole, good quality" },
+          { "name": "Small onion", "quantity": "1", "notes": "chopped" },
+          { "name": "Garlic cloves", "quantity": "2", "notes": "chopped" },
+          { "name": "Olive oil", "quantity": "3 tbsp + more for cooking eggplant", "notes": null },
+          { "name": "Dried oregano", "quantity": "1 tsp", "notes": "or fresh basil leaves" },
+          { "name": "Fresh mozzarella", "quantity": "200 g", "notes": "sliced or torn" },
+          { "name": "Grated Parmesan", "quantity": "50 g", "notes": null },
+          { "name": "Salt and pepper", "quantity": "to taste", "notes": null },
+          { "name": "All-purpose flour", "quantity": "Optional", "notes": "for dredging eggplant if frying" },
+          { "name": "Fresh basil leaves", "quantity": "for garnish", "notes": null }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": "Prepare the Eggplant",
+        "steps": [
+          "Slice eggplants into circles (approx. 0.5 - 1 cm thick). Sprinkle with salt and let them sit in a colander for about 30 minutes to draw out bitterness and excess moisture. Rinse and pat thoroughly dry.",
+          "Cook the eggplant: Either fry the slices in batches in olive oil until golden brown OR brush with olive oil, season with salt and pepper, and bake on baking sheets at 200°C (400°F) until golden and tender (about 20-25 minutes, flipping once)."
+        ]
+      },
+      {
+        "componentName": "Make the Tomato Sauce",
+        "steps": [
+          "While eggplant cooks, heat 3 tbsp olive oil in a saucepan. Sauté the chopped onion until soft and translucent. Add garlic and cook for another minute until fragrant.",
+          "Add the canned tomatoes, oregano (or fresh basil stems), salt, and pepper. Bring to a simmer and cook for 15-20 minutes, or until the sauce has thickened slightly. Crush whole tomatoes with a spoon if using. Remove basil stems. Taste and adjust seasoning."
+        ]
+      },
+      {
+        "componentName": "Assemble and Bake",
+        "steps": [
+          "Preheat oven to 180°C (350°F). Lightly grease a baking dish.",
+          "Spread a thin layer of tomato sauce on the bottom of the dish.",
+          "Arrange a layer of cooked eggplant slices, followed by more tomato sauce, some mozzarella, and a sprinkle of Parmesan.",
+          "Repeat the layers (eggplant, sauce, mozzarella, Parmesan) until all ingredients are used, finishing with a generous layer of mozzarella and Parmesan on top.",
+          "Bake for 25-30 minutes, or until the cheese is melted, bubbly, and golden brown.",
+          "Let rest for 10-15 minutes before serving. Garnish with fresh basil leaves."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Serve as a main course or a substantial side dish."],
+    "tips": ["Salting the eggplant is crucial for texture and removing bitterness."]
+  },
+  {
+    "id": "panna-cotta",
+
+    "title": "Panna Cotta",
+    "description": "A simple Italian dessert of sweetened cream thickened with gelatin and molded. Known for its smooth, silky texture.",
+    "yield": "Serves 4-6 (depending on mold size)",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Heavy cream", "quantity": "500 ml", "notes": null },
+          { "name": "Whole milk", "quantity": "100 ml", "notes": null },
+          { "name": "Sugar", "quantity": "75 g", "notes": null },
+          { "name": "Vanilla extract", "quantity": "1 tsp", "notes": "or 1 vanilla bean, split and scraped" },
+          { "name": "Gelatin powder", "quantity": "7-8 g", "notes": "about 2.5 tsp or 1 packet" },
+          { "name": "Cold water", "quantity": "70-80 g (ml)", "notes": "for blooming gelatin" },
+          { "name": "Toppings", "quantity": "Optional", "notes": "Chocolate sauce, caramel, berry coulis, whipped cream, fresh fruit, mint leaves" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Bloom the gelatin: Sprinkle gelatin powder over the cold water in a small bowl. Let it sit for 5-10 minutes until it becomes jelly-like.",
+          "Heat the cream mixture: In a saucepan, combine heavy cream, milk, sugar, and vanilla extract (or vanilla bean). Heat gently over medium-low heat, stirring until the sugar dissolves. Do not boil.",
+          "Dissolve gelatin: Remove the saucepan from heat. Add the bloomed gelatin mixture and stir well until completely dissolved.",
+          "Strain (optional): Pour the mixture through a fine-mesh sieve into a pitcher or measuring cup for easier pouring and a smoother texture.",
+          "Portion: Pour the mixture evenly into small glasses, ramekins, or molds.",
+          "Chill: Refrigerate for at least 4 hours, or until firm.",
+          "Serve: If using molds, briefly dip the bottom in hot water before inverting onto a plate. Serve chilled with your choice of toppings."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Serve chilled with toppings like berry coulis, fresh fruit, chocolate sauce, or caramel."],
+    "tips": ["Do not boil the cream mixture, as it can affect the texture.", "Ensure gelatin is fully dissolved."]
+  },
+  {
+    "id": "chocolate-sauce",
+
+    "title": "Chocolate Sauce",
+    "description": "A rich and versatile chocolate sauce, perfect for desserts.",
+    "yield": "Yields approx. 200-250 ml",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Heavy cream", "quantity": "100 ml", "notes": null },
+          {
+            "name": "Dark chocolate",
+            "quantity": "120 g",
+            "notes": "chopped, 60-70% cacao recommended (add 1 tbsp sugar if using very dark chocolate)"
+          },
+          { "name": "Butter", "quantity": "30 g", "notes": "unsalted" },
+          { "name": "Vanilla extract", "quantity": "1 tsp", "notes": null }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Heat the heavy cream in a small saucepan over medium heat until it just begins to simmer (do not boil).",
+          "Remove from heat. Add the chopped dark chocolate (and sugar, if using). Let it sit for a couple of minutes to melt, then stir until smooth.",
+          "Add the butter and stir until melted and fully incorporated.",
+          "Stir in the vanilla extract.",
+          "Serve warm. The sauce will thicken upon cooling; gently reheat if necessary to reach desired pouring consistency."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Drizzle over ice cream, panna cotta, cakes, or fruit."],
+    "tips": ["Use good quality chocolate for the best flavor."]
+  },
+  {
+    "id": "strawberry-coulis",
+
+    "title": "Strawberry Coulis",
+    "description": "A simple, vibrant sauce made from fresh or frozen strawberries.",
+    "yield": "Yields approx. 200 ml",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Strawberries", "quantity": "200 g", "notes": "fresh or frozen, hulled" },
+          { "name": "Sugar", "quantity": "50 g", "notes": "adjust to taste depending on strawberry sweetness" },
+          { "name": "Lemon juice", "quantity": "1-2 tbsp", "notes": null }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Combine strawberries, sugar, and lemon juice in a small saucepan.",
+          "Bring to a simmer over medium heat and cook for about 5-10 minutes, stirring occasionally, until the strawberries are soft and the sugar has dissolved.",
+          "Blend the mixture using an immersion blender or regular blender until smooth. For a very smooth sauce, strain through a fine-mesh sieve.",
+          "Chill completely before serving."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Serve with panna cotta, cheesecake, ice cream, yogurt, or pancakes."],
+    "tips": null
+  },
+  {
+    "id": "herb-baked-salmon",
+
+    "title": "Herb-Baked Salmon",
+    "description": "A flavorful and easy way to prepare salmon fillet, topped with herbs, lemon, and a crunchy breadcrumb mixture.",
+    "yield": "Serves 4-6",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Salmon fillet", "quantity": "1 kg", "notes": "whole or portioned, skin-on or off" },
+          { "name": "Olive oil", "quantity": "2-3 tbsp", "notes": "or melted butter" },
+          { "name": "Garlic cloves", "quantity": "3", "notes": "finely chopped" },
+          { "name": "Dijon mustard", "quantity": "1 tbsp", "notes": null },
+          { "name": "Brown sugar", "quantity": "2 tsp", "notes": "or honey, optional" },
+          { "name": "Lemon", "quantity": "1", "notes": "zest and juice" },
+          { "name": "Breadcrumbs", "quantity": "3 tbsp", "notes": "e.g., panko" },
+          { "name": "Grated Parmesan", "quantity": "2 tbsp", "notes": null },
+          { "name": "Fresh dill", "quantity": "2 tbsp", "notes": "finely chopped (or parsley, chives, basil, thyme, oregano)" },
+          { "name": "Dried oregano or thyme", "quantity": "1 tsp", "notes": null },
+          { "name": "Salt and pepper", "quantity": "to taste", "notes": null }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Preheat oven: Set oven to 200°C (400°F) or 180°C (350°F) fan/convection. Line a baking sheet with parchment paper.",
+          "Prepare salmon: Place the salmon fillet (skin-side down, if using) on the baking sheet. Pat dry lightly with paper towels and season with salt and pepper.",
+          "Make the mixtures:",
+          "  - Wet mixture: In a small bowl, combine olive oil (or butter), garlic, Dijon mustard, brown sugar (or honey, if using), lemon zest, and lemon juice. Brush this mixture evenly over the salmon.",
+          "  - Dry mixture: In another small bowl, combine breadcrumbs, Parmesan cheese, fresh dill (or other herbs), and dried oregano/thyme. Sprinkle this mixture evenly over the salmon, pressing lightly to adhere.",
+          "Bake salmon: Place the salmon in the preheated oven and bake for 15–20 minutes, depending on the thickness of the fillet. Salmon is done when it flakes easily with a fork and the topping is golden. (Internal temperature should reach 60-63°C / 140-145°F for medium-well).",
+          "Serve: Let the salmon rest for a few minutes before slicing or serving. Serve with lemon wedges or fresh herbs as garnish."
+        ]
+      }
+    ],
+    "servingSuggestions": [
+      "Steamed asparagus or green beans.",
+      "Mashed potatoes or roasted potatoes.",
+      "A light yogurt sauce with dill (see separate recipe)."
+    ],
+    "tips": null
+  },
+  {
+    "id": "light-yogurt-dill-sauce",
+
+    "title": "Light Yogurt Dill Sauce",
+    "description": "A refreshing and simple sauce, perfect accompaniment for fish like salmon.",
+    "yield": "Yields approx. 250 ml",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Greek or Turkish yogurt", "quantity": "200 g", "notes": "plain" },
+          { "name": "Fresh dill", "quantity": "1–2 tbsp", "notes": "finely chopped" },
+          { "name": "Garlic clove", "quantity": "1", "notes": "finely minced or grated" },
+          { "name": "Lemon juice", "quantity": "1 tsp", "notes": "or to taste" },
+          { "name": "Olive oil", "quantity": "1 tsp", "notes": "optional, for a smoother texture" },
+          { "name": "Salt and pepper", "quantity": "to taste", "notes": null }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Combine ingredients: In a bowl, mix the yogurt with finely chopped dill, garlic, and lemon juice.",
+          "Season: Add salt and pepper to taste. Stir in olive oil if desired.",
+          "Chill: Let the sauce rest in the refrigerator for at least 15 minutes to allow flavors to meld.",
+          "Serve: Use as a sauce for salmon or as a dip."
+        ]
+      }
+    ],
+    "servingSuggestions": null,
+    "tips": ["Add a pinch of cumin or smoked paprika for a warm undertone.", "Stir in finely chopped cucumber or capers for more texture."]
+  },
+  {
+    "id": "pasta-with-pesto-chicken",
+
+    "title": "Pasta with Pesto and Chicken",
+    "description": "A quick and flavorful pasta dish combining pesto sauce, cooked chicken, and optional cherry tomatoes.",
+    "yield": "Serves 2-3",
+    "ingredients": [
+      {
+        "componentName": "For the Pesto Sauce",
+        "items": [
+          { "name": "Basil leaves", "quantity": "25 g", "notes": "fresh" },
+          { "name": "Grated Parmesan", "quantity": "25 g", "notes": null },
+          { "name": "Olive oil", "quantity": "50 g", "notes": "extra virgin" },
+          { "name": "Pine nuts", "quantity": "2 tbsp", "notes": "toasted (or substitute walnuts/almonds)" },
+          { "name": "Garlic clove", "quantity": "1", "notes": "chopped" },
+          { "name": "Salt and pepper", "quantity": "to taste", "notes": null }
+        ]
+      },
+      {
+        "componentName": "Pasta and Chicken",
+        "items": [
+          { "name": "Pasta", "quantity": "250 g", "notes": "penne, fusilli, spaghetti, etc." },
+          { "name": "Chicken breasts", "quantity": "2 (200-250 g total)", "notes": null },
+          { "name": "Olive oil", "quantity": "1 tbsp", "notes": "for cooking chicken" },
+          { "name": "Cherry tomatoes", "quantity": "Optional: 1 cup", "notes": "halved" },
+          { "name": "Fresh basil leaves", "quantity": "Optional", "notes": "for garnish" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Make the pesto:",
+          "  - Combine basil, Parmesan, pine nuts, and garlic in a blender or food processor.",
+          "  - Gradually add olive oil while blending until smooth.",
+          "  - Season with salt and pepper to taste. Set aside.",
+          "Cook the pasta: Cook pasta according to package directions in well-salted water until al dente. Reserve about 1/2 cup (120 ml) of pasta water before draining.",
+          "Cook the chicken:",
+          "  - Season chicken breasts with salt and pepper.",
+          "  - Heat 1 tbsp olive oil in a skillet over medium heat. Cook chicken for 5-7 minutes per side, or until cooked through (internal temperature reaches 75°C / 165°F).",
+          "  - Let chicken rest for a few minutes, then slice.",
+          "Combine pasta and pesto: Return the drained pasta to the pot or a large bowl. Add the pesto and toss well to coat. Add reserved pasta water, a tablespoon at a time, if needed to create a looser sauce.",
+          "Serve:",
+          "  - Divide the pesto pasta among plates. Top with sliced chicken.",
+          "  - Garnish with halved cherry tomatoes and fresh basil leaves, if desired.",
+          "  - Toasted pine nuts or breadcrumbs on top add a nice texture."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Serve immediately, perhaps with extra grated Parmesan."],
+    "tips": null
+  },
+  {
+    "id": "pesto-alla-genovese",
+
+    "title": "Pesto alla Genovese",
+    "description": "Traditional pesto from Genoa, Italy, typically made using a mortar and pestle for the best texture and aroma.",
+    "yield": "Yields approx. 150-200 ml (enough for 500g pasta)",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Basil leaves", "quantity": "50 g", "notes": "fresh, preferably Genovese basil" },
+          { "name": "Pine nuts", "quantity": "30 g", "notes": null },
+          { "name": "Garlic cloves", "quantity": "2", "notes": null },
+          { "name": "Parmesan cheese", "quantity": "60 g", "notes": "freshly grated" },
+          { "name": "Pecorino Romano (or Sardo)", "quantity": "30 g", "notes": "freshly grated" },
+          { "name": "Extra virgin olive oil", "quantity": "100 ml", "notes": "good quality, Ligurian preferred" },
+          { "name": "Coarse sea salt", "quantity": "a pinch", "notes": null }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Prepare basil leaves: Wash the leaves gently and pat them completely dry with paper towels. Moisture can affect the pesto's quality and shelf life.",
+          "Using a Mortar and Pestle (Traditional Method):",
+          "  - Crush the garlic cloves with a pinch of coarse salt until a paste forms.",
+          "  - Add the pine nuts and crush them into the garlic paste.",
+          "  - Add the basil leaves a few at a time, crushing them gently with a circular motion against the sides of the mortar to release their aroma without bruising too much.",
+          "  - Add the grated Parmesan and Pecorino cheese and mix well.",
+          "  - Slowly drizzle in the olive oil while stirring continuously until a creamy consistency is achieved.",
+          "Using a Food Processor (Alternative):",
+          "  - Pulse garlic and pine nuts a few times until roughly chopped.",
+          "  - Add basil leaves and salt. Pulse until finely chopped, scraping down the sides as needed.",
+          "  - Add the grated cheeses and pulse briefly to combine.",
+          "  - With the processor running on low, slowly stream in the olive oil until the pesto is smooth but still has some texture.",
+          "Taste and adjust seasoning with salt, more cheese, or olive oil as needed.",
+          "Serve immediately or store:",
+          "  - Toss the pesto with hot pasta (traditionally trofie or trenette). Add a little pasta water if needed to create a silky sauce.",
+          "  - To store in the refrigerator: Transfer pesto to an airtight container, cover the surface with a thin layer of olive oil to prevent oxidation, and refrigerate. Best used within 3-5 days.",
+          "  - To freeze: Omit the cheese (add it after thawing for best texture). Freeze in small portions (like ice cube trays), then transfer to a freezer bag. Can be frozen for several months."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Toss with pasta, spread on sandwiches, add to soups, or use as a dip."],
+    "tips": ["Using a mortar and pestle yields the best texture and flavor.", "Ensure basil is completely dry."]
+  },
+  {
+    "id": "tomato-soup-1",
+
+    "title": "Tomato Soup (Classic Style)",
+    "description": "A comforting and classic tomato soup made with a soffritto base, good quality tomatoes, and enriched with cream.",
+    "yield": "Serves 4-6",
+    "ingredients": [
+      {
+        "componentName": "Soffritto",
+        "items": [
+          { "name": "Olive oil", "quantity": "2-3 tbsp", "notes": null },
+          { "name": "Onion", "quantity": "1", "notes": "chopped" },
+          { "name": "Carrots", "quantity": "2", "notes": "chopped" },
+          { "name": "Celery stalks", "quantity": "2", "notes": "chopped" },
+          { "name": "Garlic cloves", "quantity": "3", "notes": "minced" }
+        ]
+      },
+      {
+        "componentName": "Soup",
+        "items": [
+          { "name": "Tomato paste", "quantity": "2 tbsp", "notes": null },
+          { "name": "Dry white wine (or red wine)", "quantity": "125 ml", "notes": null },
+          { "name": "Tomatoes", "quantity": "1 kg", "notes": "fresh, peeled and chopped, or 2 cans (400g each) crushed or chopped tomatoes" },
+          { "name": "Vegetable broth", "quantity": "500 ml", "notes": null },
+          { "name": "Sugar", "quantity": "1 tsp", "notes": "to balance acidity" },
+          { "name": "Dried oregano", "quantity": "1-2 tsp", "notes": null },
+          { "name": "Salt and pepper", "quantity": "to taste", "notes": null },
+          { "name": "Heavy cream", "quantity": "100-200 ml", "notes": null },
+          { "name": "Fresh basil", "quantity": "for garnish", "notes": null }
+        ]
+      },
+      {
+        "componentName": "Serving",
+        "items": [
+          { "name": "Rustic bread or croutons", "quantity": null, "notes": null },
+          { "name": "Grated Parmesan", "quantity": "optional", "notes": null }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Make soffritto: Heat olive oil in a large pot or Dutch oven over medium heat. Sauté onion, carrot, and celery for 8-10 minutes, until softened. Add garlic and sauté for another minute until fragrant.",
+          "Tomato paste and wine: Stir in tomato paste and cook for one more minute. Pour in wine and simmer until reduced by at least half, scraping up any browned bits.",
+          "Tomatoes and broth: Add chopped tomatoes, broth, oregano, and sugar. Bring to a boil, then reduce heat and simmer gently for at least 30 minutes to allow flavors to meld.",
+          "Blend the soup: Use an immersion blender to puree the soup until smooth (or carefully transfer in batches to a regular blender).",
+          "Season and add cream: Season with salt and pepper to taste. Stir in the heavy cream towards the end for a silky consistency. Heat gently but do not boil after adding cream.",
+          "Serve: Ladle the soup into bowls, garnish with fresh basil, and serve with rustic bread or croutons. Sprinkle with Parmesan if desired."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Serve hot with crusty bread, grilled cheese sandwiches, or croutons."],
+    "tips": ["Using high-quality canned tomatoes (like San Marzano) often yields better flavor than out-of-season fresh tomatoes."]
+  },
+  {
+    "id": "pizza-dough-basic",
+
+    "title": "Basic Pizza Dough",
+    "description": "A simple, versatile pizza dough recipe.",
+    "yield": "Makes 2-3 medium pizzas",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Warm water", "quantity": "250 ml", "notes": "approx 40-45°C" },
+          { "name": "Active dry yeast", "quantity": "1 tsp (3-4g)", "notes": null },
+          { "name": "Sugar or Honey", "quantity": "1 tsp", "notes": "to feed yeast" },
+          { "name": "All-purpose or Bread flour", "quantity": "350-400 g", "notes": "plus more for kneading" },
+          { "name": "Olive oil", "quantity": "2 tbsp", "notes": null },
+          { "name": "Salt", "quantity": "1 tsp", "notes": null }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Proof the yeast: Combine warm water, yeast, and sugar in a small bowl. Let stand for 5-10 minutes until foamy.",
+          "Combine ingredients: In a large bowl, combine most of the flour (start with 350g), olive oil, and salt. Add the yeast mixture.",
+          "Mix and Knead: Stir until a shaggy dough forms. Turn out onto a lightly floured surface and knead for 8-10 minutes, adding more flour as needed, until the dough is smooth and elastic.",
+          "First Rise: Place the dough in a lightly oiled bowl, turn to coat. Cover and let rise in a warm place for 1-1.5 hours, or until doubled in size.",
+          "Shape: Punch down the dough, divide into 2 or 3 portions. Shape as desired for pizza.",
+          "Use: Top with sauce and desired ingredients and bake in a preheated hot oven (230-250°C / 450-475°F) until crust is golden and cheese is bubbly."
+        ]
+      }
+    ],
+    "servingSuggestions": null,
+    "tips": ["For a crispier crust, preheat your baking stone or steel."]
+  },
+  {
+    "id": "gnocchi-basic",
+
+    "title": "Basic Potato Gnocchi",
+    "description": "Classic Italian dumplings made from potatoes, flour, and egg.",
+    "yield": "Serves 3-4",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Potatoes", "quantity": "1 kg", "notes": "starchy variety like Russets or King Edward, baked or boiled until tender" },
+          { "name": "All-purpose flour", "quantity": "150-200 g", "notes": "approximate, plus more for dusting" },
+          { "name": "Egg", "quantity": "1", "notes": "large, lightly beaten" },
+          { "name": "Salt", "quantity": "1 tsp", "notes": "or to taste" },
+          { "name": "Semolina flour", "quantity": "Optional", "notes": "for dusting" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Cook potatoes: Bake or boil potatoes until very tender. Peel them while still hot (carefully!).",
+          "Mash potatoes: Pass the hot potatoes through a potato ricer or food mill onto a clean work surface (or mash very thoroughly, ensuring no lumps). Let cool slightly.",
+          "Form dough: Spread the mashed potato out. Sprinkle evenly with salt and most of the flour (start with 150g). Make a well in the center and add the beaten egg.",
+          "Combine gently: Using your hands or a bench scraper, gently bring the ingredients together until just combined into a soft dough. Do NOT overwork, as this makes gnocchi tough. Add a little more flour only if absolutely necessary to handle the dough.",
+          "Shape gnocchi: Divide the dough into 4-6 portions. On a lightly floured surface, roll each portion into a long rope about 1.5-2 cm thick. Cut the rope into 2-3 cm pieces.",
+          "Ridge (optional): You can roll each gnocchi piece gently over the back of a fork or a gnocchi board to create ridges (helps sauce cling). Place finished gnocchi on a tray dusted with flour or semolina.",
+          "Cook: Bring a large pot of salted water to a rolling boil. Add gnocchi in batches (don't overcrowd). They are cooked when they float to the surface (usually 2-4 minutes). Remove with a slotted spoon.",
+          "Serve: Toss immediately with your favorite sauce (like butter and sage, pesto, or tomato sauce) and serve."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Serve with butter and sage, pesto, tomato sauce, or ragu."],
+    "tips": ["Use starchy potatoes for fluffy gnocchi.", "Work quickly and gently; don't over-knead."]
+  },
+  {
+    "id": "rice-porridge",
+
+    "title": "Rice Porridge",
+    "description": "A simple, creamy rice porridge cooked with milk.",
+    "yield": "Serves 1-2",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Short-grain rice", "quantity": "100 ml (approx 85g)", "notes": "like Arborio or pudding rice" },
+          { "name": "Water", "quantity": "200 ml", "notes": null },
+          { "name": "Milk", "quantity": "500 ml", "notes": "whole milk recommended" },
+          { "name": "Salt", "quantity": "1/8 tsp", "notes": null }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Bring water to a boil in a saucepan.",
+          "Add rice and salt.",
+          "Simmer gently until the water is almost absorbed.",
+          "Gradually add the milk, stirring.",
+          "Cook over low heat, covered, until the porridge is thick and the rice is tender (approx. 45 minutes).",
+          "Stir occasionally to prevent sticking."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Serve warm with cinnamon, sugar, butter, or fruit compote."],
+    "tips": ["Low heat and occasional stirring are key to prevent scorching."]
+  },
+  {
+    "id": "tomato-soup-2",
+
+    "title": "Quick Tomato Soup",
+    "description": "A faster version of tomato soup using canned tomatoes and broth, finished with cream.",
+    "yield": "Serves 3-4",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Olive oil", "quantity": "2 tbsp", "notes": null },
+          { "name": "Onion", "quantity": "1", "notes": "chopped" },
+          { "name": "Garlic cloves", "quantity": "2", "notes": "minced" },
+          { "name": "Crushed tomatoes", "quantity": "800 g (2 cans)", "notes": null },
+          { "name": "Broth", "quantity": "250 ml", "notes": "vegetable or chicken" },
+          { "name": "Sugar", "quantity": "1 tsp", "notes": "to balance acidity" },
+          { "name": "Dried basil", "quantity": "1/2 ts", "notes": null },
+          { "name": "Dried oregano", "quantity": "1/2 ts", "notes": null },
+          { "name": "Salt and pepper", "quantity": "to taste", "notes": null },
+          { "name": "Heavy cream", "quantity": "100 ml", "notes": null }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Sauté onion in olive oil in a pot until softened.",
+          "Add garlic and sauté for another minute until fragrant.",
+          "Add crushed tomatoes, broth, sugar, basil, oregano, salt, and pepper. Bring to a boil, then reduce heat and simmer for 30 minutes.",
+          "Blend the soup until smooth using an immersion blender or regular blender.",
+          "Stir in the cream. Heat gently (do not boil).",
+          "Serve with desired toppings like sour cream, Parmesan, boiled eggs, etc."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Serve hot with toppings like sour cream, grated Parmesan, boiled eggs, croutons, or fresh herbs."],
+    "tips": null
+  },
+  {
+    "id": "ragu-bolognese",
+
+    "title": "Ragu Bolognese",
+    "description": "A rich, slow-cooked meat sauce, traditionally served with tagliatelle pasta.",
+    "yield": "Serves 4-6 (with pasta)",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Soffritto", "quantity": "120g celery, 120g carrot, 1 medium onion", "notes": "finely diced" },
+          { "name": "Ground meat", "quantity": "500g", "notes": "Mix of beef (like chuck) and pork (like shoulder/neck) recommended" },
+          { "name": "Dry Red wine", "quantity": "200 ml", "notes": "e.g., Sangiovese, Chianti" },
+          {
+            "name": "Tomato Sauce components",
+            "quantity": null,
+            "notes": "1 can (400g) San Marzano tomatoes (crushed), 1 tbsp tomato paste (double concentrated like Mutti/Petti), 1 tbsp sugar, 1 vegetable bouillon cube/tsp powder, 1 tbsp concentrated beef broth/paste"
+          },
+          { "name": "Heavy Cream or Whole Milk", "quantity": "100 ml", "notes": null },
+          { "name": "Pasta", "quantity": "For serving", "notes": "Tagliatelle recommended" },
+          { "name": "Parmesan cheese", "quantity": "For serving", "notes": "Aged 20+ months recommended" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Sauté soffritto (celery, carrot, onion) in olive oil with salt over medium heat until softened and translucent.",
+          "Brown the ground meat in a separate pan, breaking it up. Drain excess fat.",
+          "Combine soffritto and browned meat in the pot.",
+          "Deglaze with red wine, scraping the bottom of the pot. Simmer until wine has mostly evaporated.",
+          "Add tomato sauce components (crushed tomatoes, tomato paste, sugar, bouillon, beef concentrate) and cream/milk. Stir well.",
+          "Bring to a gentle simmer, then reduce heat to low, cover partially, and cook for a minimum of 2 hours (3-4 hours is better), stirring occasionally. Add a splash of water or broth if it becomes too thick.",
+          "Serve tossed with cooked pasta (like tagliatelle) and topped with grated Parmesan."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Traditionally served with tagliatelle pasta and grated Parmesan cheese."],
+    "tips": ["Long, slow cooking develops the deep flavor.", "Using a mix of beef and pork adds complexity."]
+  },
+  {
+    "id": "salmorejo-1",
+
+    "title": "Salmorejo (Cordoban Style)",
+    "description": "A thicker, creamier cold tomato soup originating from Cordoba, Spain, often garnished with ham and egg.",
+    "yield": "Serves 4-6",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Ripe tomatoes", "quantity": "1.5 kg", "notes": "good quality, e.g., Roma or plum" },
+          { "name": "Dry white bread", "quantity": "200 g", "notes": "crusts removed, country-style loaf recommended" },
+          { "name": "Garlic cloves", "quantity": "3", "notes": "adjust to taste" },
+          { "name": "Extra virgin olive oil", "quantity": "100-200 ml", "notes": "good quality Spanish preferred" },
+          { "name": "White wine or Sherry vinegar", "quantity": "2-3 tbsp", "notes": null },
+          { "name": "Salt", "quantity": "to taste", "notes": null },
+          { "name": "Garnishes", "quantity": "Optional", "notes": "Hard-boiled egg (chopped), Serrano ham (chopped), boiled potato (diced)" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": "Preparation",
+        "steps": [
+          "Prepare ingredients: Wash tomatoes. Remove crusts from bread. Peel garlic.",
+          "Optional: Peel tomatoes by blanching (score bottom, boil 30 sec, ice bath, peel).",
+          "Optional: Dry bread slightly in a low oven (75°C / 170°F) for 1-2 hours. Soak bread briefly in water (1-2 min), then squeeze out excess water.",
+          "Have salt, vinegar, and oil ready near the blender.",
+          "Prepare containers/bottles for storage."
+        ]
+      },
+      {
+        "componentName": "Blending",
+        "steps": [
+          "Combine tomatoes, soaked bread, and garlic in a powerful blender.",
+          "Blend until very smooth.",
+          "With the blender running on medium speed, slowly drizzle in the olive oil until the mixture emulsifies and becomes creamy.",
+          "Add vinegar and salt gradually, tasting and adjusting as needed.",
+          "Pour the salmorejo into containers/bottles and chill thoroughly in the refrigerator (at least 2 hours)."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Serve cold, garnished with chopped hard-boiled egg and Serrano ham. Diced boiled potato is also a traditional garnish."],
+    "tips": ["Use very ripe, flavorful tomatoes.", "A powerful blender is key for a smooth texture."]
+  },
+  {
+    "id": "fresh-pasta",
+
+    "title": "Fresh Egg Pasta Dough",
+    "description": "A basic recipe for making fresh pasta dough from scratch.",
+    "yield": "Serves 3-4 (approx. 400-450g dough)",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "All-purpose flour ('00' preferred)", "quantity": "240 g", "notes": null },
+          { "name": "Semolina flour", "quantity": "60 g", "notes": "for texture" },
+          { "name": "Large eggs", "quantity": "3", "notes": null },
+          { "name": "Olive oil", "quantity": "1 tbsp", "notes": "optional, for elasticity" },
+          { "name": "Salt", "quantity": "1 tsp (approx 5-6g)", "notes": null }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Combine flours: Mix all-purpose flour and semolina flour on a clean work surface or in a large bowl. Create a well in the center.",
+          "Add wet ingredients: Crack the eggs into the well. Add olive oil (if using) and salt.",
+          "Mix: Gradually incorporate the flour into the wet ingredients using a fork, starting from the center and working outwards.",
+          "Knead: Once a shaggy dough forms, use your hands to bring it together. Knead the dough on a lightly floured surface for 8-10 minutes, until smooth and elastic. Add a tiny bit of water if too dry, or a dusting of flour if too sticky.",
+          "Rest: Wrap the dough tightly in plastic wrap or cover with an inverted bowl. Let it rest at room temperature for at least 30 minutes (or up to 2 hours). This allows the gluten to relax, making it easier to roll.",
+          "Roll and cut: Lightly flour the work surface. Divide the dough into 4 portions. Keep unused portions covered.",
+          "Using a pasta machine: Flatten one portion slightly and feed it through the machine on the widest setting ('1' or '0'). Fold the dough and pass it through again 2-3 times. Gradually decrease the setting (e.g., '2', '3', ...) until you reach the desired thickness (usually '6' or '7' for tagliatelle/fettuccine).",
+          "Cut the pasta sheets into your desired shape (e.g., spaghetti, tagliatelle, fettuccine, lasagne sheets) using the machine's cutters or by hand.",
+          "Dry slightly: Lay the cut pasta on a lightly floured surface or pasta drying rack for 15-30 minutes before cooking.",
+          "Cook: Cook fresh pasta in a large pot of boiling, well-salted water for 2-5 minutes, depending on thickness, until al dente."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Toss with your favorite sauce immediately after cooking."],
+    "tips": ["Don't add too much flour during kneading; the dough should be firm but pliable.", "Resting the dough is crucial."]
+  },
+  {
+    "id": "bechamel-sauce",
+
+    "title": "Béchamel Sauce (White Sauce)",
+    "description": "A foundational French white sauce made from butter, flour, and milk.",
+    "yield": "Yields approx. 1 liter",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Milk", "quantity": "1 liter", "notes": "whole milk recommended, warm gently before using" },
+          { "name": "Butter", "quantity": "50 g", "notes": "unsalted" },
+          { "name": "All-purpose flour", "quantity": "50 g", "notes": "equal weight to butter for a medium roux" },
+          { "name": "Salt", "quantity": "to taste", "notes": "start with 1/2 tsp" },
+          { "name": "White pepper", "quantity": "to taste", "notes": "or black pepper" },
+          { "name": "Nutmeg", "quantity": "Optional: pinch", "notes": "freshly grated preferred" },
+          { "name": "Parmesan cheese", "quantity": "Optional", "notes": "grated, for Mornay sauce variation" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Make the roux: Melt butter in a saucepan over medium-low heat. Add flour and whisk constantly for 1-2 minutes to cook out the raw flour taste without browning (this is a white roux).",
+          "Add milk: Gradually whisk in the warm milk, a little at a time, ensuring no lumps form. Whisk continuously.",
+          "Thicken: Bring the sauce to a gentle simmer, whisking constantly. Cook for 5-10 minutes, or until the sauce thickens enough to coat the back of a spoon.",
+          "Season: Season with salt, pepper, and nutmeg (if using). If making Mornay sauce, stir in grated Parmesan off the heat until melted.",
+          "Simmer gently: Reduce heat to low and let the sauce simmer very gently for another 5-10 minutes to cook fully and meld flavors, stirring occasionally.",
+          "Use immediately or store: If not using immediately, press plastic wrap directly onto the surface of the sauce to prevent a skin from forming."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Base for lasagne, moussaka, gratins, soufflés, or cheese sauces (Mornay)."],
+    "tips": ["Warming the milk helps prevent lumps.", "Constant whisking is key when adding milk.", "Béchamel sauce thickens as it cools."]
+  },
+  {
+    "id": "moussaka",
+
+    "title": "Moussaka",
+    "description": "A layered dish from the Balkans and Middle East, typically featuring eggplant or potato, ground meat, and a creamy béchamel topping.",
+    "yield": "Serves 6-8",
+    "ingredients": [
+      {
+        "componentName": "Eggplant Preparation",
+        "items": [
+          { "name": "Eggplants", "quantity": "3-4 large", "notes": "sliced into ~1/2 cm thick rounds" },
+          { "name": "Salt", "quantity": "for salting", "notes": null },
+          { "name": "Olive oil", "quantity": "for frying/baking", "notes": null }
+        ]
+      },
+      {
+        "componentName": "Meat Sauce",
+        "items": [
+          { "name": "Olive oil", "quantity": "30 ml (2 tbsp)", "notes": null },
+          { "name": "Large onion", "quantity": "1", "notes": "chopped" },
+          { "name": "Garlic cloves", "quantity": "2", "notes": "chopped" },
+          { "name": "Ground meat", "quantity": "700 g", "notes": "lamb (traditional Greek), beef, or mix" },
+          { "name": "Red wine", "quantity": "60 ml", "notes": "dry" },
+          { "name": "Canned tomatoes", "quantity": "1 can (400g)", "notes": "crushed or diced" },
+          { "name": "Tomato paste", "quantity": "2 tbsp", "notes": null },
+          { "name": "Cinnamon", "quantity": "1 tsp", "notes": "ground" },
+          { "name": "Nutmeg", "quantity": "1/2 tsp", "notes": "ground (plus more for béchamel)" },
+          { "name": "Allspice", "quantity": "1/4 tsp", "notes": "ground (optional, mentioned in instructions)" },
+          { "name": "Salt and pepper", "quantity": "to taste", "notes": null },
+          { "name": "Fresh parsley", "quantity": "2-3 tbsp", "notes": "chopped, for garnish/mixing in" }
+        ]
+      },
+      {
+        "componentName": "Béchamel Sauce",
+        "items": [
+          { "name": "Butter", "quantity": "115 g", "notes": "unsalted" },
+          { "name": "All-purpose flour", "quantity": "65 g", "notes": null },
+          { "name": "Whole milk", "quantity": "950 ml", "notes": "warmed" },
+          { "name": "Ground nutmeg", "quantity": "1/4 tsp", "notes": null },
+          { "name": "Salt and white pepper", "quantity": "to taste", "notes": null },
+          { "name": "Large egg yolks", "quantity": "3", "notes": null },
+          { "name": "Grated Parmesan or Kefalotyri cheese", "quantity": "175g", "notes": "divided" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Prepare the eggplant: Sprinkle eggplant slices with salt and set them in a colander to drain for 30 minutes. Rinse the slices under cold water and pat thoroughly dry with paper towels. Cook the eggplant slices until golden brown and tender (either fry in batches in olive oil or bake brushed with oil at 200°C/400°F). Set aside on paper towels to drain excess oil.",
+          "Make the meat sauce: In a large saucepan or Dutch oven, heat 30ml olive oil over medium heat. Add the onions and garlic, and cook until softened, about 5 minutes. Add the ground meat, breaking it up with a spoon, and cook until browned. Drain any excess fat.",
+          "Stir in the red wine, crushed tomatoes, tomato paste, cinnamon, allspice (if using), nutmeg, salt, and pepper. Bring to a boil, then reduce heat to low and simmer, uncovered, for 30-40 minutes, until sauce has thickened. Stir in the chopped parsley.",
+          "Make the béchamel sauce: In a medium saucepan, melt the butter over medium heat. Whisk in the flour and cook, stirring, for 1-2 minutes (white roux). Gradually whisk in the warmed milk and cook, whisking constantly, until the sauce thickens (coats back of spoon). Remove from heat and stir in the nutmeg, salt, and white pepper.",
+          "Temper egg yolks: In a small bowl, whisk the egg yolks. Slowly whisk in about 240ml (1 cup) of the warm béchamel sauce into the yolks. Pour the tempered egg yolk mixture back into the saucepan with the remaining béchamel sauce, whisking constantly. Stir in 115g of the grated cheese off the heat.",
+          "Preheat the oven to 180°C (350°F). Grease a 23x33 cm (9x13 inch) baking dish.",
+          "Assemble the moussaka: Place a layer of eggplant slices in the bottom of the prepared dish. Spread half of the meat sauce over the eggplant. Add another layer of eggplant slices, followed by the remaining meat sauce. Top with a final layer of eggplant slices.",
+          "Pour the béchamel sauce evenly over the top layer of eggplant. Sprinkle the remaining 60g of grated cheese over the béchamel.",
+          "Bake the moussaka for 45-60 minutes, or until the top is deeply golden brown and bubbling. Let rest for at least 15-20 minutes before slicing and serving."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Serve warm as a main course."],
+    "tips": ["Salting and draining the eggplant is important.", "Letting the moussaka rest before cutting helps it hold its shape."]
+  },
+  {
+    "id": "marzipan",
+
+    "title": "Marzipan",
+    "description": "A sweet confection made primarily from sugar or honey and ground almonds.",
+    "yield": "Yields approx. 400g",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Ground almonds (Almond flour)", "quantity": "200 g", "notes": "finely ground" },
+          { "name": "Powdered sugar (Icing sugar)", "quantity": "200 g", "notes": "sifted" },
+          { "name": "Almond extract", "quantity": "2 tsp", "notes": null },
+          { "name": "Rose water", "quantity": "1 tsp", "notes": "optional" },
+          { "name": "Egg white", "quantity": "1", "notes": "large, pasteurized recommended" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Combine dry ingredients: In a large bowl, mix the ground almonds and sifted powdered sugar.",
+          "Add flavorings: Stir in the almond extract and rose water (if using).",
+          "Add egg white: In a separate small bowl, lightly whisk the egg white until slightly frothy (not stiff).",
+          "Form dough: Gradually add the frothed egg white to the almond/sugar mixture, mixing until a firm dough forms. You might not need all the egg white, so add it slowly until the dough comes together and isn't too sticky.",
+          "Knead briefly: Turn the marzipan out onto a surface lightly dusted with powdered sugar. Knead gently for a minute or two until smooth.",
+          "Shape or Store: At this point, you can shape the marzipan into desired forms (balls, figures), or roll it out to cover cakes or cut decorative shapes. Wrap well in plastic wrap if storing.",
+          "Optional Drying: If using for firm decorations, allow the shaped marzipan to air-dry at room temperature for 1-2 days to firm up."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Use for cake decorating, modeling figures, or eating as candy."],
+    "tips": [
+      "Using pasteurized egg whites is recommended for safety if not cooking the marzipan.",
+      "Sifting the powdered sugar prevents lumps.",
+      "Don't over-knead, as it can release oils from the almonds."
+    ]
+  },
+  {
+    "id": "semolina-porridge",
+
+    "title": "Semolina Porridge",
+    "description": "A quick and creamy hot porridge made from semolina.",
+    "yield": "Serves 2-3",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Semolina", "quantity": "100 g", "notes": "fine or coarse" },
+          { "name": "Milk", "quantity": "500 ml", "notes": null },
+          { "name": "Sugar", "quantity": "2 tbsp", "notes": "adjust to taste" },
+          { "name": "Salt", "quantity": "1/4 tsp", "notes": null },
+          { "name": "Vanilla powder or extract", "quantity": "1/2 tsp", "notes": null },
+          { "name": "Cinnamon", "quantity": "Optional: sprinkle", "notes": "for serving" },
+          { "name": "Honey or Maple Syrup", "quantity": "Optional: 20-30 g", "notes": "for serving" },
+          { "name": "Toppings", "quantity": "Optional", "notes": "Fruit, nuts, butter" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Combine liquids and seasonings: In a medium saucepan, combine the milk, sugar, and salt. Bring the mixture to a gentle simmer over medium-low heat, stirring occasionally to dissolve the sugar.",
+          "Add semolina: Slowly pour the semolina into the simmering milk, whisking constantly to prevent lumps from forming.",
+          "Cook: Reduce the heat to low and continue to cook the porridge, stirring frequently, for about 5-7 minutes or until it thickens to your desired consistency. The porridge will continue to thicken as it cools.",
+          "Finish: Remove the saucepan from the heat and stir in the vanilla.",
+          "Serve: Let the porridge sit for a minute or two to thicken further, then serve warm in bowls, topped with cinnamon, honey/maple syrup, fruit, or nuts as desired."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Serve warm topped with cinnamon, honey, fruit, or nuts."],
+    "tips": [
+      "If you prefer a creamier porridge, you can replace a portion of the milk with heavy cream.",
+      "Constant whisking when adding semolina is key to avoid lumps."
+    ]
+  },
+  {
+    "id": "salmorejo-2",
+
+    "title": "Salmorejo",
+    "description": "A traditional cold soup from Andalusia, Spain, similar to gazpacho but typically thicker and creamier due to the bread content.",
+    "yield": "Serves 4-6",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Ripe tomatoes", "quantity": "1 kg", "notes": "peeled and chopped recommended" },
+          { "name": "Dry white bread", "quantity": "200 g", "notes": "crusts removed, e.g., baguette or country loaf" },
+          { "name": "Garlic cloves", "quantity": "2-3", "notes": "minced" },
+          { "name": "Extra virgin olive oil", "quantity": "100 ml", "notes": "good quality" },
+          { "name": "Sherry vinegar or Red wine vinegar", "quantity": "1-2 tbsp", "notes": "to taste" },
+          { "name": "Salt", "quantity": "to taste", "notes": null },
+          {
+            "name": "Garnish",
+            "quantity": "Optional",
+            "notes": "hard-boiled eggs (finely chopped), Spanish serrano ham or prosciutto (thinly sliced or chopped)"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Prepare tomatoes: If desired, peel tomatoes (blanch first: score bottom, boil 30 sec, ice bath, peel). Roughly chop.",
+          "Soak bread: Tear the bread into small pieces and soak in a bowl with a little water for a couple of minutes until softened. Gently squeeze out excess water.",
+          "Blend solids: In a blender or food processor, combine the chopped tomatoes, soaked bread, minced garlic, and a pinch of salt. Blend until very smooth.",
+          "Emulsify with oil: With the blender running on medium speed, slowly drizzle in the extra virgin olive oil until fully incorporated and the mixture becomes creamy.",
+          "Season: Add the vinegar to taste, and adjust the salt as needed. Blend briefly to combine.",
+          "Chill: Pour the salmorejo into a bowl or container and refrigerate for at least 2 hours, or until thoroughly chilled.",
+          "Serve: Before serving, taste and adjust seasoning if needed. Pour into bowls or glasses, and garnish with chopped hard-boiled eggs and Serrano ham/prosciutto if desired."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Serve cold, garnished with chopped hard-boiled eggs and serrano ham/prosciutto."],
+    "tips": ["Using high-quality, ripe tomatoes and good olive oil makes a big difference.", "It's best served very cold."]
+  },
+  {
+    "id": "gazpacho",
+
+    "title": "Gazpacho",
+    "description": "Gazpacho is a refreshing cold soup made from ripe tomatoes, cucumbers, bell peppers, and onions, originating from Andalusia, Spain. Perfect for hot summer days.",
+    "yield": "Serves 4-6",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Ripe tomatoes", "quantity": "6 large", "notes": "roughly chopped" },
+          { "name": "Green bell pepper", "quantity": "1", "notes": "seeded and roughly chopped" },
+          { "name": "Cucumber", "quantity": "1", "notes": "peeled and roughly chopped" },
+          { "name": "Small red onion", "quantity": "1", "notes": "roughly chopped" },
+          { "name": "Garlic cloves", "quantity": "2", "notes": "minced" },
+          { "name": "Tomato juice or cold water", "quantity": "475 ml (2 cups)", "notes": null },
+          { "name": "Stale white bread", "quantity": "140g (approx 2 cups torn)", "notes": "crusts removed and torn into small pieces" },
+          { "name": "Extra-virgin olive oil", "quantity": "60 ml (1/4 cup)", "notes": null },
+          { "name": "Sherry vinegar or red wine vinegar", "quantity": "30 ml (2 tbsp)", "notes": null },
+          { "name": "Salt", "quantity": "to taste", "notes": null },
+          { "name": "Freshly ground black pepper", "quantity": "to taste", "notes": null },
+          { "name": "Optional garnishes", "quantity": null, "notes": "diced cucumber, bell pepper, onion, hard-boiled egg, croutons" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Soak the stale bread in the tomato juice or cold water for about 10 minutes, or until softened.",
+          "In a blender or food processor, combine the tomatoes, bell pepper, cucumber, onion, and garlic. Blend until smooth.",
+          "Add the soaked bread (including any unabsorbed liquid) and blend again until smooth.",
+          "While the blender is running on low, gradually pour in the olive oil, followed by the vinegar. Blend until the soup has a smooth, creamy texture.",
+          "Season with salt and freshly ground black pepper to taste.",
+          "Transfer the gazpacho to a large bowl or container and refrigerate for at least 2 hours, or until well chilled.",
+          "Serve the gazpacho cold, with optional garnishes on the side or sprinkled on top."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Serve well-chilled with optional garnishes like diced vegetables or croutons."],
+    "tips": [
+      "Adjust the consistency by adding more tomato juice or water if too thick.",
+      "For an extra smooth soup, pass it through a fine-mesh strainer after blending."
+    ]
+  },
+  {
+    "id": "pizza-dough-napoletana",
+
+    "title": "Neapolitan Pizza Dough",
+    "description": "A recipe for authentic Neapolitan-style pizza dough, known for its soft, airy crust.",
+    "yield": "Makes 2-4 pizzas (depending on size)",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Italian Tipo \"00\" flour", "quantity": "500 grams", "notes": "essential for texture" },
+          { "name": "Water", "quantity": "325 grams (ml)", "notes": "room temperature (around 20-22°C)" },
+          { "name": "Fine sea salt", "quantity": "10 grams", "notes": "approx 2 tsp" },
+          { "name": "Active dry yeast OR Fresh yeast", "quantity": "3 grams (approx 1 tsp) OR 7 grams", "notes": null }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Combine flour and yeast: In a large mixing bowl, combine the flour and active dry yeast (if using). If using fresh yeast, dissolve it in the water first.",
+          "Add water: Gradually add the water to the flour mixture, mixing with a wooden spoon or your hands until the dough starts to come together.",
+          "Add salt: Add the salt (salt inhibits yeast, so add it after initial mixing) and continue mixing until a shaggy dough forms.",
+          "Knead: Turn the dough out onto a clean work surface and knead by hand for 10-15 minutes, until the dough is smooth, elastic, and slightly tacky. Avoid adding too much extra flour.",
+          "First Rise (Bulk Fermentation): Shape the dough into a ball and place it in a lightly oiled bowl, covering it with plastic wrap or a damp cloth. Let it rise at room temperature for about 2 hours, or until it has nearly doubled in size.",
+          "Divide and Second Rise (Proofing): Gently turn the dough out. Divide it into 2-4 equal pieces (depending on desired pizza size, typically 200-280g each). Shape each piece into a tight ball. Place the balls on a lightly floured tray or container, cover loosely with plastic wrap or a damp cloth, and let them rest (proof) for another 4-8 hours at room temperature, or longer in the refrigerator (up to 24-48 hours for more flavor development - bring to room temp before shaping).",
+          "Preheat Oven: At least 45-60 minutes before baking, preheat your oven to the highest setting (ideally 260°C / 500°F or higher). Place a pizza stone or steel in the oven to preheat.",
+          "Shape the Dough: Gently stretch each dough ball into a thin circle (approx. 30cm / 12 inches) on a lightly floured surface or using semolina. Start from the center and work outwards, leaving a slightly thicker edge (cornicione). Be careful not to degas the edge. Do not use a rolling pin.",
+          "Top and Bake: Quickly top the pizza with desired ingredients (keep it light for Neapolitan style). Carefully transfer the pizza onto the preheated stone or steel using a pizza peel.",
+          "Bake for 6-10 minutes (time depends heavily on oven temperature), rotating halfway, until the crust is puffed and charred in spots, and the cheese is melted and bubbly.",
+          "Serve: Remove from oven, let cool slightly, slice, and enjoy immediately."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Top simply with San Marzano tomato sauce, fresh mozzarella, basil, and olive oil."],
+    "tips": ["Using '00' flour is key.", "High oven temperature and a preheated surface are crucial.", "Handle the dough gently during shaping."]
+  },
+  {
+    "id": "pizza-sauce-basic",
+
+    "title": "Basic Pizza Sauce",
+    "description": "A simple, uncooked or lightly cooked tomato sauce perfect for pizza.",
+    "yield": "Enough for 3-4 medium pizzas",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Canned tomatoes", "quantity": "800 grams (1 large can)", "notes": "high-quality whole peeled (like San Marzano) or crushed" },
+          { "name": "Garlic", "quantity": "1-2 cloves", "notes": "minced or grated (optional)" },
+          { "name": "Dried oregano", "quantity": "1 teaspoon", "notes": null },
+          { "name": "Dried basil", "quantity": "1 teaspoon", "notes": "or a handful of fresh basil leaves, torn" },
+          { "name": "Sugar", "quantity": "1/2 teaspoon", "notes": "optional, to balance acidity" },
+          { "name": "Salt and black pepper", "quantity": "to taste", "notes": null },
+          { "name": "Extra virgin olive oil", "quantity": "1-2 tablespoons", "notes": null }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": "Uncooked Method (Recommended for Neapolitan)",
+        "steps": [
+          "If using whole peeled tomatoes, crush them by hand or with a fork/immersion blender (don't puree completely). If using crushed, proceed.",
+          "In a bowl, combine the crushed tomatoes, optional garlic, oregano, basil, sugar (if using), salt, pepper, and olive oil.",
+          "Stir well to combine.",
+          "Taste and adjust seasoning if needed.",
+          "Use immediately on pizza dough."
+        ]
+      },
+      {
+        "componentName": "Lightly Cooked Method",
+        "steps": [
+          "Optional: Sauté minced garlic gently in olive oil in a saucepan for 1-2 minutes until fragrant (do not brown).",
+          "Add the crushed tomatoes, oregano, basil, sugar (if using), salt, and pepper.",
+          "Bring the sauce to a simmer, then reduce heat to low and cook gently for 15-20 minutes, stirring occasionally, to meld flavors and thicken slightly.",
+          "If using fresh basil, stir it in during the last few minutes.",
+          "Taste and adjust seasoning.",
+          "Let cool slightly before spreading onto pizza dough."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Spread thinly on pizza dough before adding toppings."],
+    "tips": ["Using high-quality canned tomatoes is key.", "For authentic Neapolitan pizza, the uncooked sauce is preferred."]
+  },
+  {
+    "id": "pizza-sauce-bianca",
+
+    "title": "Pizza Bianca Sauce (White Pizza Sauce)",
+    "description": "A creamy white sauce base for pizza, often featuring ricotta and Parmesan.",
+    "yield": "Enough for 1-2 medium pizzas",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Ricotta cheese", "quantity": "125 grams", "notes": "whole milk preferred" },
+          { "name": "Grated Parmesan cheese", "quantity": "75 grams", "notes": null },
+          { "name": "Garlic", "quantity": "1-2 cloves", "notes": "finely minced or grated" },
+          { "name": "Olive oil", "quantity": "2 tablespoons", "notes": "extra virgin" },
+          { "name": "Salt", "quantity": "to taste", "notes": null },
+          { "name": "Freshly ground black pepper", "quantity": "to taste", "notes": null },
+          { "name": "Optional additions", "quantity": null, "notes": "pinch of nutmeg, lemon zest, chopped fresh herbs (like parsley or thyme)" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "In a mixing bowl, combine the ricotta cheese and the grated Parmesan. Stir until well combined.",
+          "Add the minced garlic, olive oil, salt, and pepper. Stir well to ensure everything is evenly distributed.",
+          "Stir in any optional additions like nutmeg, lemon zest, or herbs if desired.",
+          "Taste and adjust seasoning as needed.",
+          "Spread evenly over your pizza dough before adding other toppings."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Use as a base for white pizzas with toppings like mushrooms, spinach, prosciutto, or artichokes."],
+    "tips": ["Use good quality ricotta for a creamier sauce."]
+  },
+  {
+    "id": "smoothie-strawberry-avocado-1",
+
+    "title": "Strawberry Avocado Smoothie (with Banana & Spinach)",
+    "description": "A nutritious smoothie combining the creaminess of avocado and banana with the sweetness of strawberries and the goodness of spinach.",
+    "yield": "Serves 1-2",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Banana", "quantity": "1", "notes": "ripe, frozen for thicker smoothie" },
+          { "name": "Avocado", "quantity": "1/2 to 1", "notes": "ripe" },
+          { "name": "Strawberries", "quantity": "150 g", "notes": "fresh or frozen" },
+          { "name": "Spinach", "quantity": "30 g (a large handful)", "notes": "fresh" },
+          { "name": "Orange juice", "quantity": "250 ml", "notes": "or other liquid like milk, almond milk, water" },
+          { "name": "Other vegetables", "quantity": "Optional: 75 grams", "notes": "e.g., cucumber, kale, or celery" },
+          { "name": "Flavor boost", "quantity": "Optional: 1/4 tsp", "notes": "ground cinnamon or ginger" },
+          { "name": "Ice cubes", "quantity": "Optional: a few", "notes": "if using fresh fruit" },
+          { "name": "Sweetener", "quantity": "Optional: 1 tbsp", "notes": "honey or agave syrup, if needed" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": null,
+        "steps": [
+          "Prepare the ingredients: Peel banana (slice if not frozen), pit and scoop avocado, wash strawberries (hull if fresh) and spinach.",
+          "Combine in blender: Place banana, avocado, strawberries, spinach, orange juice (or other liquid), and any optional ingredients (vegetables, spices, ice) into a blender.",
+          "Blend: Blend on high speed until completely smooth and creamy. If the smoothie is too thick, add more liquid; if too thin, add more frozen fruit or ice.",
+          "Taste and adjust: Taste the smoothie. Add sweetener if desired and blend again briefly.",
+          "Serve: Pour into a glass and enjoy immediately."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Enjoy immediately as a breakfast, snack, or post-workout drink."],
+    "tips": ["Using frozen fruit (banana and/or strawberries) creates a thicker, colder smoothie without needing ice."]
+  },
+  {
+    "id": "smoothie-strawberry-avocado-2",
+
+    "title": "Creamy Strawberry Avocado Smoothie (with Milk)",
+    "description": "A creamy and satisfying smoothie featuring strawberries and avocado, blended with milk and sweetened with honey.",
+    "yield": "Serves 2",
+    "ingredients": [
+      {
+        "componentName": null,
+        "items": [
+          { "name": "Strawberries", "quantity": "150 g", "notes": "fresh or frozen" },
+          { "name": "Avocado", "quantity": "200 g (1 large or 2 small)", "notes": "ripe" },
+          { "name": "Spinach", "quantity": "50 g (a large handful)", "notes": "fresh" },
+          { "name": "Ice cubes", "quantity": "75 g", "notes": "omit if using frozen strawberries" },
+          { "name": "Honey", "quantity": "50 g", "notes": "or sugar/maple syrup to taste" },
+          { "name": "Vanilla sugar or extract", "quantity": "1/4 tsp", "notes": null },
+          { "name": "Cinnamon", "quantity": "Pinch (1/4 tsp)", "notes": null },
+          { "name": "Salt", "quantity": "Pinch (1/4 - 1/2 tsp)", "notes": "enhances flavor" },
+          { "name": "Milk", "quantity": "300-400 ml", "notes": "dairy or plant-based like oat milk" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": "Preparation",
+        "steps": [
+          "Prepare ingredients: Wash strawberries (hull if fresh). Pit and scoop avocado. Wash spinach.",
+          "Gather other ingredients near the blender."
+        ]
+      },
+      {
+        "componentName": "Blending",
+        "steps": [
+          "Add ingredients to blender: Place strawberries, avocado, and spinach in the blender first.",
+          "Add remaining ingredients: Add honey, vanilla, cinnamon, salt, and ice (if using).",
+          "Blend: Start the blender on low speed, gradually increasing to high. Slowly add the milk until you reach the desired creamy consistency.",
+          "Taste and adjust: Taste the smoothie and add more honey or milk if needed. Blend briefly to combine.",
+          "Serve immediately."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Enjoy immediately."],
+    "tips": [
+      "Adding ingredients in the order suggested (liquids/soft items first, then harder/frozen items) can help with blending.",
+      "Adjust sweetness to your preference."
+    ]
+  },
+  {
+    "id": "burger-basic-build",
+
+    "title": "Basic Burger Build (130g)",
+    "description": "Components and steps for assembling a classic burger.",
+    "yield": "Makes 1 burger",
+    "ingredients": [
+      {
+        "componentName": "Onion Stew/Jam",
+        "items": [
+          { "name": "Large onion", "quantity": "1", "notes": "thinly sliced" },
+          { "name": "Water", "quantity": "1 tbsp", "notes": null },
+          { "name": "Salt", "quantity": "pinch", "notes": null }
+        ]
+      },
+      {
+        "componentName": "Burger Patty",
+        "items": [
+          { "name": "Ground beef", "quantity": "130 g", "notes": "good quality, 80/20 lean-to-fat ratio recommended" },
+          { "name": "Salt and Pepper", "quantity": "to taste", "notes": null }
+        ]
+      },
+      {
+        "componentName": "Bun and Toppings",
+        "items": [
+          { "name": "Burger bun", "quantity": "1", "notes": null },
+          { "name": "Onion/Pickled Onion", "quantity": "to taste", "notes": "see components" },
+          { "name": "Pickles", "quantity": "to taste", "notes": "sliced" },
+          { "name": "Tomato", "quantity": "1-2 slices", "notes": null },
+          { "name": "Ketchup", "quantity": "to taste", "notes": null },
+          { "name": "Mustard", "quantity": "to taste", "notes": "Dijon or coarse grain" },
+          { "name": "Mayonnaise", "quantity": "to taste", "notes": "see component or store-bought" },
+          { "name": "Lettuce", "quantity": "1-2 leaves", "notes": null },
+          { "name": "Butter", "quantity": "for bun", "notes": null }
+        ]
+      },
+      {
+        "componentName": "Quick Pickled Onion",
+        "items": [
+          { "name": "Onion", "quantity": "1", "notes": "thinly sliced" },
+          { "name": "Red wine vinegar", "quantity": "~2 tbsp", "notes": null },
+          { "name": "Salt", "quantity": "pinch", "notes": null },
+          { "name": "Sugar", "quantity": "pinch", "notes": null }
+        ]
+      },
+      {
+        "componentName": "Basic Mayonnaise",
+        "items": [
+          { "name": "Egg yolk", "quantity": "1", "notes": "room temperature" },
+          { "name": "Dijon mustard", "quantity": "1 tbsp", "notes": null },
+          { "name": "Lemon juice", "quantity": "1 tbsp", "notes": "or white wine vinegar" },
+          { "name": "Neutral oil", "quantity": "150-200 ml", "notes": "e.g., canola, grapeseed" },
+          { "name": "Salt", "quantity": "pinch", "notes": null },
+          { "name": "White pepper", "quantity": "pinch", "notes": "optional" }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "componentName": "Onion Stew/Jam",
+        "steps": [
+          "Combine sliced onion, water, and salt in a small saucepan.",
+          "Cook covered over low heat for 5 minutes until softened.",
+          "Remove lid, increase heat slightly, and cook for another 3-5 minutes, stirring, until lightly browned/caramelized."
+        ]
+      },
+      {
+        "componentName": "Quick Pickled Onion",
+        "steps": ["Combine thinly sliced onion, vinegar, salt, and sugar in a small bowl.", "Let sit for at least 15-30 minutes before using."]
+      },
+      {
+        "componentName": "Basic Mayonnaise",
+        "steps": [
+          "In a clean bowl, whisk together egg yolk, Dijon mustard, and lemon juice.",
+          "Very slowly, drop by drop at first, start whisking in the oil. Continue whisking constantly.",
+          "Once the mixture starts to emulsify and thicken, you can add the oil in a thin, steady stream while whisking continuously.",
+          "Continue adding oil until the mayonnaise reaches your desired thickness.",
+          "Season with salt and white pepper."
+        ]
+      },
+      {
+        "componentName": "Burger Patty",
+        "steps": [
+          "Gently form the ground beef into a patty, slightly wider than the bun (it will shrink). Don't overwork the meat.",
+          "Make a slight indentation in the center of the patty to prevent it from puffing up too much.",
+          "Season generously with salt and pepper just before cooking.",
+          "Cook the patty on a hot grill or skillet to your desired doneness (e.g., 3-4 minutes per side for medium)."
+        ]
+      },
+      {
+        "componentName": "Assembly",
+        "steps": [
+          "Toast the burger bun halves (cut side down) in butter in the skillet or on the grill until golden brown.",
+          "Spread mayonnaise on the bottom bun.",
+          "Place lettuce on the bottom bun.",
+          "Place the cooked burger patty on the lettuce.",
+          "Top the patty with desired toppings like tomato slices, pickles, onion stew, and/or pickled onions.",
+          "Spread ketchup and/or mustard on the top bun.",
+          "Place the top bun on the burger."
+        ]
+      }
+    ],
+    "servingSuggestions": ["Serve immediately with fries or a side salad."],
+    "tips": ["Don't overwork the burger patty for a tender result.", "Toast the bun to prevent sogginess."]
+  }
+]

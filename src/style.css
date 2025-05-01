@@ -1,0 +1,187 @@
+:root {
+  /* Fresh & Vibrant Palette */
+  --primary-color: #4caf50; /* Medium Green */
+  --secondary-color: #87ceeb; /* Sky Blue */
+  --accent-color: #ffc107; /* Amber Yellow */
+  --background-color: #f8f9fa; /* Very Light Gray */
+  --card-background-color: #ffffff; /* White */
+  --text-color-primary: #212529; /* Dark Gray/Black */
+  --text-color-secondary: #6c757d; /* Medium Gray */
+  --border-color: #e9ecef; /* Lighter Gray */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary-color: #81c784; /* Light Green */
+    --secondary-color: #64b5f6; /* Light Blue */
+    --accent-color: #ffb74d; /* Light Amber */
+    --background-color: #343a40; /* Dark Gray */
+    --card-background-color: #495057; /* Darker Gray */
+    --text-color-primary: #f8f9fa; /* Light Gray/White */
+    --text-color-secondary: #adb5bd; /* Medium Light Gray */
+    --border-color: #ced4da; /* Lighter Gray */
+  }
+}
+
+/* Basic Reset & Body Styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  /* Consider selecting a nicer font like 'Inter' or 'Lato' */
+  background-color: var(--background-color);
+  color: var(--text-color-primary);
+  line-height: 1.6;
+}
+
+/* Header Styling */
+header {
+  background-color: var(--header-background);
+  color: var(--header-text-color);
+  padding: 1.5rem 1rem;
+  text-align: center;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+  font-weight: 600;
+}
+
+/* Main Container */
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  /* Add padding for smaller screens */
+}
+
+/* Grid Wrapper for Cards */
+.card-wrapper {
+  display: grid;
+  /* Define responsive grid columns */
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  /* Creates columns that are at least 280px wide */
+  gap: 1.5rem;
+  /* Spacing between cards */
+  padding-bottom: 2rem;
+  /* Space at the bottom */
+}
+
+/* Recipe Card Styling */
+.recipe-card {
+  background-color: var(--card-background-color);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  overflow: hidden;
+  /* Ensures content stays within rounded corners */
+  display: flex;
+  /* Use flexbox for content alignment */
+  flex-direction: column;
+  /* Stack content vertically */
+}
+
+.recipe-card:hover {
+  transform: translateY(-5px);
+  /* Slight lift effect on hover */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  /* Enhanced shadow on hover */
+}
+
+.recipe-card h2 {
+  color: var(--primary-color);
+  font-size: 1.4rem;
+  margin-bottom: 0.75rem;
+}
+
+.recipe-card p {
+  color: var(--text-color-secondary);
+  font-size: 1rem;
+  flex-grow: 1;
+  /* Allows description to take available space */
+  margin-bottom: 1rem;
+  /* Space before potential buttons/links */
+}
+
+/* Add a placeholder for potential images */
+.recipe-card .card-image-placeholder {
+  height: 180px;
+  background-color: var(--border-color);
+  margin: -1.5rem -1.5rem 1.5rem -1.5rem;
+  /* Span full card width above padding */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-color-secondary);
+  font-style: italic;
+}
+
+/* * {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #223;
+}
+
+body {
+  color: #ccd;
+  font-family: system-ui, "Helvetica Neue", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  width: 90vw;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 2rem;
+  margin: 0;
+  text-align: center;
+}
+
+.card-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-auto-rows: minmax(200px, auto);
+  gap: 5px;
+  background-color: #334;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.recipe-card {
+  background-color: #445;
+}
+
+.recipe-card h2 {
+  font-size: 1.5rem;
+  margin: 0;
+  text-align: center;
+  border-bottom: 1px solid #556;
+  margin: 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.recipe-card p {
+  font-size: 1rem;
+  margin: 0;
+  padding: 10px;
+}
+
+.error-message {
+  color: red;
+}
+ */
