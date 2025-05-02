@@ -61,7 +61,7 @@ async function loadRecipes(container: HTMLElement): Promise<void> {
   container.innerHTML = "<h1>Recipes</h1><p>Loading recipes...</p>"; // Initial loading state
 
   try {
-    const response = await fetch("/data/oppskrifter.json"); // Fetch from the public directory
+    const response = await fetch("data/oppskrifter.json"); // Fetch from the public directory
     if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
 
     const recipes: Recipe[] = await response.json(); // Parse JSON and assert type. For production, consider runtime validation (e.g., with Zod)
